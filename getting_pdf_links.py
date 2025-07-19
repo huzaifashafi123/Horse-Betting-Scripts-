@@ -195,7 +195,7 @@ def scrape_tracks(url_list):
                     "date": date
                 })
         except Exception as e:
-            print(f"Failed on {url} with error: {e}")
+            print(f"Failed on {url}")
 
     driver.quit()
     return all_tracks

@@ -42,26 +42,37 @@ def find_phrase_on_page(page, phrase, threshold=0.9):
 
 def find_all_segments_on_pages(pages, start_phrase, end_phrase, threshold=0.9):
     segments = []
-    starts, ends = [], []
 
     for pi, page in enumerate(pages):
-        res = find_phrase_on_page(page, start_phrase, threshold)
-        if res:
-            starts.append((pi, res[0]))
-    for pi, page in enumerate(pages):
-        res = find_phrase_on_page(page, end_phrase, threshold)
-        if res:
-            ends.append((pi, res[1]))
+        try:
+            # 🧠 OCR the page to extract raw text first
+            page_text = pytesseract.image_to_string(page).lower().strip()
+        except Exception as e:
+            print(f"❌ OCR text extraction failed on page {pi}: {e}")
+            continue
 
-    while starts:
-        si, sy = starts.pop(0)
-        for ei, ey in ends:
-            if ei > si or (ei == si and ey > sy):
-                segments.append((si, sy, ei, ey))
-                ends.remove((ei, ey))
-                break
+        # Step 1: Does page contain "on the dirt"?
+        if "on the dirt" not in page_text:
+            continue  # Skip this page
+
+        # Step 2: Find start phrase on this page
+        start_res = find_phrase_on_page(page, start_phrase, threshold)
+        if not start_res:
+            continue
+
+        # Step 3: Find end phrase on this page, after start
+        end_res = find_phrase_on_page(page, end_phrase, threshold)
+        if not end_res:
+            continue
+
+        start_index = start_res[0]
+        end_index = end_res[1]
+
+        if end_index > start_index:
+            segments.append((pi, start_index, pi, end_index))
 
     return segments
+
 
 # ------------------ Image Cropping ------------------
 
