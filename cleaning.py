@@ -46,7 +46,7 @@ def extract_first_int_pp(text):
     return None
 
 # Load the CSV file
-df = pd.read_csv("file.csv")  # Replace with your actual filename
+df = pd.read_excel("combined_race_data.xlsx")  # Replace with your actual filename
 
 # Clean 'pp' column
 df['pp'] = df['pp'].apply(extract_first_int_pp)

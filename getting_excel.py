@@ -4,7 +4,7 @@ import pandas as pd
 import re
 
 # Folder containing your JSON files
-folder_path = r"C:\Users\Huzaifa\Desktop\equilbase\output_json"  # 🔁 Change this to your actual path
+folder_path = r"output_json"  # 🔁 Change this to your actual path
 
 # List to store all records
 all_records = []

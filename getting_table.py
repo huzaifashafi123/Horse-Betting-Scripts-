@@ -73,7 +73,6 @@ def find_all_segments_on_pages(pages, start_phrase, end_phrase, threshold=0.9):
 
     return segments
 
-
 # ------------------ Image Cropping ------------------
 
 def crop_segment(pages, basename, out_folder, seg_index,

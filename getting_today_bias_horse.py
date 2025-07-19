@@ -1,22 +1,35 @@
 import pandas as pd
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 
-# Step 1: Load the files
-csv_file = r'C:\Users\Huzaifa\Desktop\equilbase\post_bias_outperformers.csv'
-excel_file = r'C:\Users\Huzaifa\Desktop\equilbase\equibase_today_horses_data.xlsx'
+# Load files
+csv_file = 'post_bias_outperformers.csv'
+excel_file = 'equibase_today_horses_data.xlsx'
 
 # Read both files
 df_csv = pd.read_csv(csv_file)
 df_excel = pd.read_excel(excel_file)
+
+# Rename for consistency
 df_csv.rename(columns={'horse_name': 'horse_name'}, inplace=True)
 df_excel.rename(columns={'Horse': 'horse_name'}, inplace=True)
-# Step 2: Standardize horse name format (strip whitespace, lowercase etc.)
-df_csv['horse_name'] = df_csv['horse_name'].str.strip().str.lower()
-df_excel['Horse'] = df_excel['horse_name'].str.strip().str.lower()
 
-# Step 3: Merge only matching horse names (inner join)
-merged_df = pd.merge(df_csv, df_excel, on='horse_name', how='inner')
+# Standardize name format
+df_csv['horse_name_clean'] = df_csv['horse_name'].str.strip().str.lower()
+df_excel['horse_name_clean'] = df_excel['horse_name'].str.strip().str.lower()
 
-# Step 4: Save to new file (optional)
-merged_df.to_csv('matched_horses.csv', index=False)
+# Fuzzy match function
+matched_rows = []
+for idx_csv, name_csv in df_csv['horse_name_clean'].items():
+    match = process.extractOne(name_csv, df_excel['horse_name_clean'], scorer=fuzz.token_sort_ratio)
+    if match and match[1] >= 90:
+        idx_excel = df_excel[df_excel['horse_name_clean'] == match[0]].index[0]
+        combined_row = {**df_csv.loc[idx_csv].to_dict(), **df_excel.loc[idx_excel].to_dict()}
+        matched_rows.append(combined_row)
 
-print("✅ Merged rows with matching horse names saved to 'matched_horses.csv'")
+# Create merged DataFrame
+merged_df = pd.DataFrame(matched_rows)
+
+# Save result
+merged_df.to_csv('getting_data_to_bet_today_horses.csv', index=False)
+print("✅ Fuzzy matched rows with ≥90% similarity saved to 'matched_horses.csv'")

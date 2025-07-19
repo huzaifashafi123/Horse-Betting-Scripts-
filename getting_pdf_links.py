@@ -33,51 +33,58 @@ def get_driver():
     return driver
 
 
-
+from bs4 import BeautifulSoup
+import time
 
 def download_pdfs(data_list):
-    driver = get_driver()
+    def init_driver():
+        return get_driver()
+
+    driver = init_driver()
 
     csv_file = 'pdf_data.csv'
     existing_urls = set()
 
-    # Load existing pdf_url values if CSV exists
     if os.path.exists(csv_file):
         df_existing = pd.read_csv(csv_file)
         if 'pdf_url' in df_existing.columns:
             existing_urls = set(df_existing['pdf_url'].dropna().tolist())
 
-    # Ensure consistent field order
     fieldnames = ['source_url', 'track_name', 'track_link', 'date', 'pdf_url']
 
     for item in data_list:
         try:
             driver.get(item['track_link'])
+            time.sleep(10)  # Wait for content to load
 
-            full_card_link = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located(
-                    (By.XPATH, '//h3/a[b[text()="View the Full Card Here"]]'))
-            )
-            full_card_href = full_card_link.get_attribute('href')
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
 
+            # Find the Full Card link
+            full_card_tag = soup.find('a', string=lambda text: text and "View the Full Card Here" in text)
+            if not full_card_tag:
+                raise Exception("Full Card link not found")
+
+            full_card_href = full_card_tag['href']
             if full_card_href.startswith("/"):
                 full_card_href = "https://www.equibase.com" + full_card_href
 
             print(f"➡️ Going to Full Card Page: {full_card_href}")
             driver.get(full_card_href)
+            time.sleep(3)
 
-            pdf_object = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.TAG_NAME, 'object'))
-            )
-            pdf_url = pdf_object.get_attribute("data")
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
 
+            pdf_object = soup.find('object')
+            if not pdf_object or not pdf_object.get('data'):
+                raise Exception("PDF link not found in <object> tag")
+
+            pdf_url = pdf_object['data']
             if pdf_url.startswith("/"):
                 pdf_url = "https://www.equibase.com" + pdf_url
 
             item['pdf_url'] = pdf_url
 
             if pdf_url not in existing_urls:
-                # Save immediately to CSV
                 write_header = not os.path.exists(csv_file) or os.stat(csv_file).st_size == 0
                 with open(csv_file, 'a', newline='', encoding='utf-8') as f:
                     writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -92,8 +99,15 @@ def download_pdfs(data_list):
 
         except Exception as e:
             print(f"⚠️ Error processing {item['track_link']}: {e}")
+            try:
+                driver.quit()
+            except Exception:
+                pass
+            print("🔄 Restarting driver...")
+            driver = init_driver()
 
     driver.quit()
+
 
 def extract_date_from_url(url):
     parsed_url = urlparse(url)
