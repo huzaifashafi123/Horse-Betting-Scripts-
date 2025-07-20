@@ -19,7 +19,7 @@ MODELS = [
     "meta-llama/llama-4-maverick-17b-128e-instruct"
 ]
 
-INPUT_FOLDER = r"cropped_images_1"  # Change this to your input folder path
+INPUT_FOLDER = r"cropped_image"  # Change this to your input folder path
 OUTPUT_FOLDER = "output_json"  # Change this to your output folder path
 DELAY_SECONDS = 3  # Delay between requests to avoid rate limiting
 

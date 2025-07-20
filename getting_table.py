@@ -230,7 +230,7 @@ if __name__ == "__main__":
 
     try:
         process_csv_and_download(
-            csv_file="pdf_data.csv",
+            csv_file="today_pdf_data.csv",
             download_dir="pdfs",
             output_dir="cropped_images",
             segment_specs=segment_specs,
