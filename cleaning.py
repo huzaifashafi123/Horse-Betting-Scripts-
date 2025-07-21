@@ -65,6 +65,6 @@ for col in cols_to_clean:
     df[col] = df[col].apply(extract_first_valid_int)
 
 # Save the cleaned file
-df.to_csv("cleaned_file_1.csv", index=False)
+df.to_csv("cleaned_files.csv", index=False)
 
 print("✅ Cleaning complete. Saved as 'cleaned_file.csv'")

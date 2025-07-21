@@ -218,7 +218,7 @@ month = 7
 year = 2025
     
 print(f"Scraping calendar for {month}/{year}...")
-links = ["https://www.equibase.com/premium/eqpVchartBuy.cfm?mo=7&da=19&yr=2025&trackco=ALL;ALL&cl=Y"]
+links = ["https://www.equibase.com/premium/eqpVchartBuy.cfm?mo=7&da=20&yr=2025&trackco=ALL;ALL&cl=Y"]
 
 results = scrape_tracks(links)
 download_pdfs(results)

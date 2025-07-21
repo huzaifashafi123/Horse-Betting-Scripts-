@@ -11447,3 +11447,405 @@ last_raced,pgm,horse_name,jockey,wgt_me,pp,start,quarter,half,three_quarter,str,
 8Jun25 11SAR2,4,Tunisian Spring,"Espinoza, Victor",122 L,4,1.0,10.0,10.0,9.0,9.0,9.0,24.25,"4p turn,5p into lane",Saratoga,19-07-2025,6
 18Jan25 7AQU10,1,Commuted,"Santana, Jr., Ricardo",122 L,1,11.0,7.0,8.0,10.0,10.0,10.0,11.3,"ins-2p turn,eased,wlkd",Saratoga,19-07-2025,6
 8Jun25 11SAR6,7,Fifth Avenue,"Elliott, Christopher",117 L,7,2.0,1.0,4.0,11.0,11.0,11.0,56.5,"stopped,eased,wlkd off",Saratoga,19-07-2025,6
+27Jun25 'LRC',6,Sunset Storm,"Bautista, Alfredo",120 L bf,6,4,3.0,1.0,1.0,12.0,1.0,21.2,"4w, vie 3 deep, clr, lastd",Del Mar,20-07-2025,1
+13Jun25 'SA',4,Petesoldfashioned,"Fresu, Antonio",125 L bf,4,1,2.0,3.0,2.0,2.0,2.0,3.1,"outsd, btw, chs, came bck",Del Mar,20-07-2025,1
+7Jun25 'CD',1,Redemption Time,"Herrera, Diego",125 L f,1,5,5.0,5.0,5.0,3.0,3.0,0.5,"ins-2wd, late run 3deep",Del Mar,20-07-2025,1
+22Jun25 'LRC',5,Resemblance,"Ayuso, Armando",125 L bf,5,2,4.0,4.0,4.0,4.0,4.0,5.3,"stalk 3wd, 2-4wd, wknd",Del Mar,20-07-2025,1
+27Jun25 'LRC',2,American Empire,"Alsagoo, Abdul",125 L ,2,6,6.0,6.0,6.0,6.0,5.0,34.9,"ins, angled 5w, no factor",Del Mar,20-07-2025,1
+5Jul25 'LRC',3,Majestic Palisades,"Frey, Kyle",125 L bf,3,3,1.0,2.0,3.0,5.0,6.0,11.4,"vie ins, yield past 5/16",Del Mar,20-07-2025,1
+12Jun25 'SA',6,Skyquist,"Van Dyke, Drayden",120 Lb,6,7,8.0,8.0,7.0,5.0,1.0,14.3,"3w,2-3w,rallied btw",Del Mar,20-07-2025,2
+24May25 'SA',8,Jennys Tiz,"Espinoza, Assael",120 Lb,8,6,7.0,5.0,5.0,4.0,2.0,13.8,"4-3w,5-4w,outclosed",Del Mar,20-07-2025,2
+12Jun25 'SA',3,Tapit Dynasty,"Laprida, Jeremy",120 L,3,3,3.0,2.0,2.0,1.0,3.0,1.5,"vie btw,duel2w,outkckd",Del Mar,20-07-2025,2
+12Jun25 'SA',7,Cano for the Win,"Fresu, Antonio",120 Lb,7,4,4.0,3.0,3.0,3.0,4.0,4.6,"5w,vie4-3deep,outfnshd",Del Mar,20-07-2025,2
+31May25 'SA',1,Toppers At Seaside,"Rispoli, Umberto",120 Lb,1,2,1.0,1.0,1.0,2.0,5.0,2.8,"led,vie inside,weaknd",Del Mar,20-07-2025,2
+4Jul25 'LRC',5,Travail,"Valdivia, Jr., Jose",125 Lb,5,5,6.0,7.0,6.0,7.0,6.0,6.1,"tracked 2w,2w-ins,wknd",Del Mar,20-07-2025,2
+22Jun25 'LRC',4,Nobel Gary,"Mussad, David",118 Lf,4,1,2.0,4.0,4.0,6.0,7.0,32.2,"4-3w,vied3deep,angl in",Del Mar,20-07-2025,2
+18Apr25 'OP',2,Charming Tiger,"Cohen, David",120 L,2,8,5.0,6.0,8.0,8.0,8.0,16.3,"stmbld,ins,drop bck2nd",Del Mar,20-07-2025,2
+1Jun25 'CD²',6,Privman,"Hernandez, Juan",120 L b,5,1,1.0,1.0,1.0,1.0,1.0,1.2,"inside,ducked in upper",Del Mar,20-07-2025,3
+14Jun25 'SA³',8,Penalty Box,"Frey, Kyle",120 L b,7,2,2.0,2.0,2.0,2.0,2.0,18.8,"press outside,2nd best",Del Mar,20-07-2025,3
+28Jun25 'LRC³',1,Rank,"Lezcano, Abel",120 L b,1,6,6.0,6.0,4.0,3.0,3.0,8.8,"drifted/bpd1st,2-4wd2nd",Del Mar,20-07-2025,3
+19Apr25 'SA³',7,Fausto,"Berrios, Hector",125 L,6,7,7.0,7.0,5.0,5.0,4.0,5.6,"antsy,3wd,angled in2nd",Del Mar,20-07-2025,3
+14Jun25 'SA²',2,Cheever,"Fresu, Antonio",120 L,2,4,3.0,3.0,3.0,4.0,5.0,1.8,"stalk ins,ins-3w,weaken",Del Mar,20-07-2025,3
+15Jun25 'SA⁸',4,Prayer,"Kimura, Kazushi",120 L b,4,3,5.0,5.0,6.0,6.0,6.0,34.6,"bpd3w1st,3-4w2nd,empty",Del Mar,20-07-2025,3
+5Jan25 'SA⁸',3,Unique Power,"Ayuso, Armando",120 L b,3,5,4.0,4.0,7.0,7.0,7.0,19.4,"stalked2w,tired2-3w2nd",Del Mar,20-07-2025,3
+7Jun25 'SA',9,Nation,"Rispoli, Umberto",124 L b,8,8,7.0,3.0,,1.0,1.0,0.8,"bpd5deep5/16,drew off",Del Mar,20-07-2025,4
+19Apr25 'SA',1,Broadway Unions,"Franco, Geovanni",124 L b f,1,10,10.0,7.0,,4.0,2.0,4.5,"ins,angled4w,up for2nd",Del Mar,20-07-2025,4
+6Jun25 'SA',5,Naismith,"Frey, Kyle",124 L,5,9,9.0,6.0,,3.0,3.0,8,"drftd bit early,4-3wd",Del Mar,20-07-2025,4
+4Jul25 'LRC',11,Distant Fleet,"Silvera, Ruben",120 L b,10,4,2.0,1.0,,2.0,4.0,7,"bid2w,bmpd4deep5/16",Del Mar,20-07-2025,4
+21Jun25 'LRC',8,Spiritist,"Ayuso, Armando",124 L b,7,2,3.0,4.0,,5.0,5.0,34.5,"mild bid btwn5/16,wknd",Del Mar,20-07-2025,4
+4Jul25 'LRC',10,James J. Braddock,"Fresu, Antonio",120 L,9,6,8.0,8.0,,7.0,6.0,40,"5wd into str, no rally",Del Mar,20-07-2025,4
+4Jul25 'LRC',12,Bobbed N Lured,"Herrera, Cristobal",124 L f,11,3,5.0,9.0,,6.0,7.0,58.4,"mid-pack2-3wd,weakend",Del Mar,20-07-2025,4
+21Jun25 'LRC',4,Seager Man,"Kimura, Kazushi",124 L b,4,7,6.0,10.0,,10.0,8.0,7.5,"mid-pack,drop bck turn",Del Mar,20-07-2025,4
+6Jul25 'LRC',2,Uplift,"Cedillo, Abel",124 L,2,11,11.0,11.0,,11.0,9.0,59,"inside-3wd, no factor",Del Mar,20-07-2025,4
+4Jul25 'LRC',3,Coach Randy B,"Carmona, Serafin",124 L f,3,5,4.0,5.0,,8.0,10.0,75.7,"rail bid 5/16, tired",Del Mar,20-07-2025,4
+18Mar25 'TUP',7,Lobdell Lake,"Espinoza, Assael",124 L b,6,1,,2.0,,1.0,11.0,50.8,"drftd/bpd5/16,gave way",Del Mar,20-07-2025,4
+6Jul25 ³LRC¹,4,See Through It,"Fresu, Antonio",122 L,4,5,5.0,4.0,,1.0,1.0,5.60,"bpd st,2-4w,3deep1/8",Del Mar,20-07-2025,5
+26Apr25 ⁴SA⁴,2,For All Mankind,"Hernandez, Juan",120 L,2,3,4.0,3.0,,2.0,2.0,2.30,"ins,2-3w,bid,outkicked",Del Mar,20-07-2025,5
+20Jun25 ¹LRC¹,3,Jerry's Spirit,"Ayuso, Armando",122 Lb,3,2,2.0,1.0,,3.0,3.0,4.60,"outsd,clear,flattened",Del Mar,20-07-2025,5
+28Jun25 ⁶LRC³,6,Manitowish,"Silvera, Ruben",120 Lb,6,4,7.0,7.0,,7.0,4.0,40.40,"2-4w,pass tired rivals",Del Mar,20-07-2025,5
+25May25 ²SA⁵,1,Mucho Del Oro,"Kimura, Kazushi",120 Lb,1,1,1.0,2.0,,4.0,5.0,22.40,"duel ed inside,weakened",Del Mar,20-07-2025,5
+23Aug24 ⁹CT³,7,Tapalo,"Berrios, Hector",120 Lb,7,7,3.0,5.0,,5.0,6.0,1.80*,"3deep,5w into str,fade",Del Mar,20-07-2025,5
+25May25 ²SA²,5,We're in Trouble,"Rispoli, Umberto",120 Lb,5,6,6.0,6.0,,6.0,7.0,6.50,"bpd st,drftd late turn",Del Mar,20-07-2025,5
+12Jun25 '8CD7',3,Lottery Win,"Asmussen, Erik",121 L,3,2,1.0,1.0,1.0,1.0,1.0,4.83,"vied 2wd,drew clear1/4",Ellis Park,20-07-2025,1
+26Apr25 '6CD7',4,Skynet,"Gutierrez, Mario",119 L bf,4,6,6.0,3.0,2.0,2.0,2.0,15.91,"2p,gain 3pbtw,no match",Ellis Park,20-07-2025,1
+12Jun25 '8CD8',13,Fly J's Funtastic,"Barbosa, Carlos",124 L b,10,7,8.0,7.0,5.0,5.0,3.0,26.36,"forced out start, 4-7p",Ellis Park,20-07-2025,1
+18Jun25 '9CD3',10,Harbe,"Concepcion, Axel",119 L b,8,9,7.0,5.0,4.0,4.0,4.0,2.5,"4-5w,chs 6p3/16,outkck",Ellis Park,20-07-2025,1
+---,15,Beck's Dreamer,"Machado, Luan",119 --,11,11,11.0,9.0,9.0,9.0,5.0,11.46,"off slw,3p,8p1/8,mvdup",Ellis Park,20-07-2025,1
+1Jun25 '1CD2',2,Redeposit,"Lanerie, Corey",124 L,2,4,2.0,2.0,3.0,3.0,6.0,3.57,"vied ins winner,faded",Ellis Park,20-07-2025,1
+5Jun25 '8CD9',5,Du Monde,"Bejarano, Rafael",124 L,5,10,10.0,10.0,7.0,7.0,7.0,73.47,"saved ground, no avail",Ellis Park,20-07-2025,1
+20Jun25 '5CD5',1,Lean Music Machine,"Leparoux, Julien",124 L,1,5,9.0,11.0,10.0,10.0,8.0,4.31,"ins,faded,passed tired",Ellis Park,20-07-2025,1
+16Jun25 '3IND4',7,Charlie Tolu,"Saez, Gabriel",119 L,6,3,4.0,6.0,6.0,6.0,9.0,21.68,"3-4pbtw,chs 2p1/4,tire",Ellis Park,20-07-2025,1
+22Jun25 '3CD3',8,Historic,"Cannon, Declan",119 L b,7,8,3.0,4.0,4.0,8.0,10.0,19.54,"press 3w,wknd 4p1/4",Ellis Park,20-07-2025,1
+31Aug24 '5KD11',12,Gold Factor,"Morales, Edgar",119 L b,9,1,5.0,8.0,11.0,11.0,11.0,13.9,"brkout,chs 5-6w,wkn3/8",Ellis Park,20-07-2025,1
+21Jun25 8CD,3,Flash Wear,"Lanerie, Corey",118 L,3,2,3.0,5.0,4.0,2.0,1.0,3.43,"ins,aim 2wd upr,edged",Ellis Park,20-07-2025,2
+27Jun25 8CD,1,L. A. Woman,"Geroux, Florent",124 L b,1,1,1.0,1.0,1.0,1.0,2.0,2.79,"ins trio1/2,clrd,bestd",Ellis Park,20-07-2025,2
+4Jun25 6CD,2,Cue the Duckboats,"Torres, Jaime",120 L,2,5,5.0,4.0,2.0,3.0,3.0,1.55,"last away,bid 4w,yield",Ellis Park,20-07-2025,2
+27Jun25 8CD,4,Islander,"Asmussen, Keith",124 L f,4,3,2.0,2.0,3.0,4.0,4.0,3.58,"prss 2w,vied btw,faded",Ellis Park,20-07-2025,2
+27Jun25 8CD,5,Promisemeanempire,"Bejarano, Rafael",124 L,5,4,4.0,3.0,5.0,5.0,5.0,7.82,"stp slw,3w,bid btw,wkn",Ellis Park,20-07-2025,2
+21Jun25 ³CD⁴,7,Victor Help Me,"Rodriguez, Walter",119 bf,4,2,1.0,1.0,1.0,1.0,4.0,4.89,"ins foe-2p,cleard 3/16",Ellis Park,20-07-2025,3
+---,6,Tactical Command,"Torres, Jaime",119 --,3,5,7.0,7.0,3.0,2.0,10.0,10.93,"brshd btw st,2wbtw3/16",Ellis Park,20-07-2025,3
+---,12,I've Got the Honey,"Geroux, Florent",119 --,7,6,5.0,3.0,4.0,3.0,1.0,1.11,"closer 4w,6p3/16,stayd",Ellis Park,20-07-2025,3
+---,5,Crevalla de Vil,"Vazquez, Ramon",119 --,2,7,6.0,4.0,2.0,4.0,4.0,4.64,"brsh,2w,aim 4p,flattnd",Ellis Park,20-07-2025,3
+18Jun25 ⁴CD⁴,10,Nonstop Vino,"Morales, Edgar",119 b,6,4,2.0,2.0,5.0,5.0,7.0,7.6,"vied outs winner,faded",Ellis Park,20-07-2025,3
+29Jun25 ³CD⁸,9,Undisputable,"Leparoux, Julien",119 --,5,3,4.0,5.0,6.0,6.0,5.0,5.62,"prmpf 3wbtw,faded 7/16",Ellis Park,20-07-2025,3
+21Jun25 ⁵BTP⁴,3,Mescool,"Meza, J.J.",119 b,1,1,3.0,6.0,7.0,7.0,,23.55,"prompt ins,chased,wknd",Ellis Park,20-07-2025,3
+7Jun25 ³CD⁴,10,Golden Glider,"Camacho, Jr., Samuel",122 L b,8,5,2.0,2.0,1.0,1.0,1.0,2.99,"prss 2w,inhand 2nd,clr",Ellis Park,20-07-2025,4
+23Mar25 ⁷OP⁵,12,What's Up Doc,"Machado, Luan",122 L b,10,10,5.0,6.0,6.0,5.0,2.0,8.66,"4p,5p upper,rallied",Ellis Park,20-07-2025,4
+8Jun25 ⁹CD¹⁰,8,Mena,"Torres, Jaime",122 L b,6,3,4.0,3.0,3.0,2.0,3.0,3.83,"2w,up place 3p1/8,cght",Ellis Park,20-07-2025,4
+25Jun25 ³CD¹,1,American Law,"Lanerie, Corey",122 L b,1,1,3.0,4.0,4.0,4.0,4.0,8.04,"track ins,chsd,no bid",Ellis Park,20-07-2025,4
+26Jun25 ⁵CD⁵,6,Inexorable,"Asmussen, Keith",122 L,4,6,7.0,5.0,5.0,6.0,5.0,26.41,"3p btwn, mildly",Ellis Park,20-07-2025,4
+12Apr25 ¹⁰OP⁷,7,Onthestage,"Asmussen, Erik",122 L,5,9,9.0,10.0,8.0,7.0,6.0,14.59,"2w,6p2nd,moved up",Ellis Park,20-07-2025,4
+30Nov24 ⁸LRL⁸,11,Lucky Jeremy,"Hernandez, Jr., Brian",122 L b,9,2,1.0,1.0,2.0,3.0,7.0,6.62,"ins wnnr,no mtch,faded",Ellis Park,20-07-2025,4
+14Jun25 ⁹CD⁷,3,Quality Chic,"Gutierrez, Mario",122 L,2,4,6.0,7.0,7.0,8.0,8.0,4.95,"shuffled 1st, ins-2p",Ellis Park,20-07-2025,4
+3Jul25 ⁶LS⁸,9,Hayes Strike,"Vazquez, Ramon",122 L b,7,8,8.0,8.0,9.0,9.0,9.0,10.07,"4-5p, no impact",Ellis Park,20-07-2025,4
+6Jul25 ⁵ELP²,5,Alejandro,"Morales, Edgar",122 L f,3,7,10.0,9.0,10.0,10.0,10.0,18.63,"inside, outrun",Ellis Park,20-07-2025,4
+---,2,To a Flame,"Concepcion, Axel",119 --,2,3,4.0,4.0,2.0,2.0,1.0,3.6,"ins,bid 2w1/4,determnd",Ellis Park,20-07-2025,5
+19Jun25 5CD7,1,Undercover Agent,"Torres, Jaime",119 --,1,1,1.0,1.0,1.0,1.0,2.0,4.29,"ins,dug in 1/4,game",Ellis Park,20-07-2025,5
+25Jun25 4CD7,5,Ames,"Hernandez, Jr., Brian",119 --,5,4,2.0,2.0,3.0,3.0,3.0,1.87,"vied 2w-3p,best of rst",Ellis Park,20-07-2025,5
+---,3,Cosmo Friday,"Bejarano, Rafael",119 --,3,7,7.0,7.0,6.0,4.0,4.0,11.81,"saved ground, moved up",Ellis Park,20-07-2025,5
+19Jun25 5CD3,10,Beach Ballad,"Morales, Edgar",119 b,7,6,3.0,3.0,5.0,6.0,5.0,3.05,"press 3w-4p,faded 5/16",Ellis Park,20-07-2025,5
+---,9,Menkaure,"Geroux, Florent",119 --,6,5,6.0,6.0,4.0,5.0,6.0,8.13,"3p, no factor",Ellis Park,20-07-2025,5
+21Jun25 3CD8,4,Gucci Gammy,"Gutierrez, Mario",119 f,4,2,5.0,5.0,7.0,7.0,7.0,40.02,"2w,done early,eased",Ellis Park,20-07-2025,5
+21Jun25 ^{10}CD^{7},1,David of Athens,"Gaffalione, Tyler",118 L f,1,1,1.0,1.0,1.0,1.0,1.0,1.16*,"2w5/8,cleard,riddn out",Ellis Park,20-07-2025,6
+29Jun25 ^{2}CD^{4},8,First Player,"Leparoux, Julien",123 L,5,3,4.0,4.0,4.0,3.0,2.0,12.75,"5-3p,5p3/16,edge place",Ellis Park,20-07-2025,6
+15Jun25 ^{5}CD^{4},5,Dive Bomber,"Geroux, Florent",123 L b,3,2,2.0,3.0,3.0,2.0,3.0,2.98,"prss4p,regain plc,bsted",Ellis Park,20-07-2025,6
+25Jun25 ^{8}CD^{5},7,Furious Anger,"Lanerie, Corey",123 L,4,5,5.0,5.0,5.0,5.0,4.0,5.93,"ins,chsd 5p1/8,no thrt",Ellis Park,20-07-2025,6
+21Jun25 ^{10}CD^{7},2,U Devil You,"Saez, Gabriel",118 L,2,4,3.0,2.0,2.0,4.0,5.0,2.53,"ins,rail bid 5/8,wknd",Ellis Park,20-07-2025,6
+25Jun25 ¹CD¹,6,Copper Em,"Torres, Jaime",122 L,4,5,4.0,4.0,3.0,3.0,1.0,1.28,"3p,rallied 4wd btw,up",Ellis Park,20-07-2025,7
+29Jun25 ⁵CD³,3,Niki Nine Doors,"Geroux, Florent",122 L b,3,2,3.0,2.0,1.0,2.0,2.0,1.42,"vied 3w,cleared,nailed",Ellis Park,20-07-2025,7
+5Jul25 ⁶ELP⁹,2,Birdie Rose,"Morales, Edgar",122 L bf,2,1,1.0,1.0,2.0,2.0,3.0,24.01,"vied 2wd btw,fought on",Ellis Park,20-07-2025,7
+12Jul25 ⁵ELP²,8,Just an Opinion,"Asmussen, Keith",122 L,5,4,5.0,5.0,5.0,5.0,4.0,8.48,"4p,chsd 5wd upr,evenly",Ellis Park,20-07-2025,7
+22Jun25 ⁶CD⁵,1,Secret Statement,"Moncada, Irving",117 L b,1,3,2.0,3.0,4.0,4.0,5.0,3.61,"vied ins pair,fade upr",Ellis Park,20-07-2025,7
+29Jun25 ⁸CD²,3,Banishing,"Gaffalione, Tyler",126 b,2,6,4.0,,,3.0,1.0,0.87,"2w btw,5p upr,rally,up",Ellis Park,20-07-2025,8
+28Jun25 ⁹CD⁴,4,Booth,"Asmussen, Erik",126 --,3,2,2.0,1.0,,1.0,2.0,4.29,"vied ins,cleard,nailed",Ellis Park,20-07-2025,8
+31May25 ⁶CD⁵,8,Here Mi Song,"Morales, Edgar",122 b,5,3,3.0,3.0,,2.0,3.0,9.08,"3wd-4p,bid 1/4,outkckd",Ellis Park,20-07-2025,8
+28Jun25 ⁹CD³,2,Durante,"Torres, Jaime",126 --,1,4,5.0,4.0,,4.0,4.0,8.8,"track ins,chsd evenly",Ellis Park,20-07-2025,8
+28Jun25 ⁹CD⁶,10,Three Technique,"Bejarano, Rafael",122 --,7,7,7.0,7.0,,7.0,5.0,19.97,"3p, moved up btwn",Ellis Park,20-07-2025,8
+26Jun25 ⁷CD¹,5,Banjo Chris,"Saez, Gabriel",122 b,4,5,6.0,6.0,,6.0,6.0,27.4,"3wd,6p upper,no bid",Ellis Park,20-07-2025,8
+7Jun25 ¹⁰CD⁵,11,Champlin,"Leparoux, Julien",122 --,8,1,1.0,2.0,,5.0,7.0,4.57,"vied 2w-3p,wkn btw upr",Ellis Park,20-07-2025,8
+26May25 ⁶LS⁶,9,Ryvit,"Asmussen, Keith",122 b,6,8,8.0,8.0,,8.0,8.0,36.79,"hopped st,outrun ins",Ellis Park,20-07-2025,8
+29Jun25 'CD',11,Grayleigh,"Bejarano, Rafael",118 L bf,7,3,2.0,2.0,1.0,1.0,1.0,2.57,"3-2w,led5/16,held well",Ellis Park,20-07-2025,9
+7Jun25 'CD',7,Pretty Tapit,"Asmusen, Keith",118 L,5,5,5.0,3.0,2.0,2.0,2.0,8.73,"3wd,pressed,fended off",Ellis Park,20-07-2025,9
+18Jun25 'CD',5,Plot,"Hernandez, Jr., Brian",118 L,4,7,6.0,6.0,5.0,3.0,3.0,2,"stumbled st,moved up",Ellis Park,20-07-2025,9
+26Oct24 'KEE',3,Unmerited Favor,"Lanerie, Corey",118 L,3,2,4.0,4.0,6.0,6.0,4.0,4.47,"ins,faded 2nd,improved",Ellis Park,20-07-2025,9
+,10,Sunshine Daydream,"Torres, Jaime",118 L b,6,4,3.0,5.0,4.0,4.0,5.0,8.97,"2wbtw,chased 3p,tired",Ellis Park,20-07-2025,9
+25Jun25 'CD',1,Dodecahedron,"Morales, Edgar",118 L b,1,1,1.0,1.0,3.0,5.0,6.0,31.8,"ins pair 5/16, stopped",Ellis Park,20-07-2025,9
+29Jun25 'CD',2,Dancing Drums,"Lepauroux, Julien",118 L,2,6,7.0,7.0,7.0,7.0,7.0,4.46,"lost action early,3-5p",Ellis Park,20-07-2025,9
+11Jul25 1EMD3,7,Right Hand Ryder,"Cruz, Alex",122 L f,6,5,,4.0,3.0,,1.0,3.72,"4-w, up final 1/16",Emerald Downs,20-07-2025,1
+12Jul25 3EMD8,1,Creative Om,"Castellanos, Adrian",122 L b,1,1,3.0,2.0,1.0,1.0,2.0,4.18,"in tight, game try",Emerald Downs,20-07-2025,1
+27Jun25 5EMD3,5,It's Turbo,"Krigger, Kevin",122 L,4,6,6.0,6.0,4.0,3.0,3.0,1.35,"steadied 1/4, rallied",Emerald Downs,20-07-2025,1
+12Jul25 3EMD4,6,Pedal to the Metal,"McGregor, Kiaman",122 L,5,2,5.0,5.0,5.0,4.0,4.0,14.25,"5-w, evenly late",Emerald Downs,20-07-2025,1
+12Jul25 3EMD7,2,Pharoahs List,"Americano, Manuel",117 L bf,2,3,1.0,1.0,2.0,5.0,5.0,3.01,"set pace, weakened",Emerald Downs,20-07-2025,1
+14Jun25 5EMD7,4,Checkered Flag,"Amador, Silvio",120 L b,3,4,2.0,3.0,6.0,6.0,6.0,16.24,"prompted, tired",Emerald Downs,20-07-2025,1
+26May25 ⁸EMD⁵,5,Precise Timing,"Monroy, Francisco",118 bf,4,3,3.0,2.0,,1.0,1.0,10.4,"3-w, hard drive, best",Emerald Downs,20-07-2025,10
+22Jun25 ⁹EMD⁴,4,Ima Margarita Girl,"Krieger, Kevin",118 --,3,1,2.0,3.0,,2.0,2.0,8.76,"vied, held gamely",Emerald Downs,20-07-2025,10
+22Jun25 ⁹EMD¹,7,Saleen G T,"Enriquez, Isaias",122 --,6,4,6.0,6.0,,3.0,3.0,2.2,"2,4-w, mild rally",Emerald Downs,20-07-2025,10
+22Jun25 ⁹EMD⁶,9,Race a Roany,"Americano, Manuel",118 f,8,5,4.0,4.0,,4.0,4.0,8.99,"4,5-w, steady effort",Emerald Downs,20-07-2025,10
+27Jun25 ⁷EMD¹,8,Princess Fave,"Duran, Francisco",118 f,7,7,9.0,8.0,,7.0,5.0,32.25,"4-w, improved position",Emerald Downs,20-07-2025,10
+22Jun25 ⁹EMD³,6,Maximum Sparkle,"Montalvo, Carlos",118 --,5,8,7.0,7.0,,6.0,6.0,3.1,"3-w, lacked rally",Emerald Downs,20-07-2025,10
+22Jun25 ⁹EMD²,10,Beauty Bark,"Alvarado, Frank",118 bf,9,9,8.0,5.0,,5.0,7.0,3.17,"6-w, no threat",Emerald Downs,20-07-2025,10
+3Jul25 ⁴EMD⁴,2,Her Blind Side,"Cruz, Alex",118 f,2,6,5.0,9.0,,9.0,8.0,54.91,"steadied, willingly",Emerald Downs,20-07-2025,10
+25May25 ⁹SRP¹,1,Sapello Sonrisa,"Castellanos, Adrian",120 --,1,2,1.0,1.0,,8.0,9.0,13.57,"vied, tired",Emerald Downs,20-07-2025,10
+28Jun25 '1EMD',1,Golden Affair,"McGregor, Kiaman",125 L b,1,5,,7.0,6.0,4.0,1.0,0.57,"6-w, up final strides",Emerald Downs,20-07-2025,2
+3Jul25 '5EMD',5,Code Breaker,"Alvarado, Frank",121 L b f,4,4,1.0,1.0,1.0,1.0,2.0,2.9,"vied, held gamely",Emerald Downs,20-07-2025,2
+29Jun25 '2EMD',8,Chasin a Dollar,"Cruz, Alex",121 L b,7,7,4.0,4.0,2.0,2.0,3.0,6.02,"2,3-w, mild rally",Emerald Downs,20-07-2025,2
+29Jun25 '2EMD',3,Hunting for Gold,"Americano, Manuel",116 L b,2,1,6.0,6.0,4.0,5.0,4.0,13.13,"2,4-w, late gain",Emerald Downs,20-07-2025,2
+20Jun25 '1EMD',6,R D Stimulus,"Monroy, Francisco",125 L b f,5,3,2.0,3.0,3.0,3.0,5.0,49.15,"vied, weakened",Emerald Downs,20-07-2025,2
+29Jun25 '2EMD',4,John Porter,"Bailey, Chel-c",121 L b f,3,2,5.0,5.0,5.0,6.0,6.0,27.76,"inside, lacked rally",Emerald Downs,20-07-2025,2
+3Jul25 '5EMD',7,Not too Hot Cocoa,"Duran, Francisco",121 L b,6,6,3.0,2.0,7.0,7.0,7.0,23.02,"disputed, tired",Emerald Downs,20-07-2025,2
+29Jun25 'EMD',7,Nastika's Secret,"Americano, Manuel",113 L f,6,1,4.0,1.0,,1.0,1.0,2.53,"3-w, edged clear",Emerald Downs,20-07-2025,3
+27Jun25 'EMD',5,Mr. Executive,"Duran, Francisco",122 L b,4,3,2.0,2.0,,2.0,2.0,1.71,"steadied, rallied",Emerald Downs,20-07-2025,3
+29Jun25 'EMD',2,Tigersun,"Castillo, Pablo",120 L b f,1,5,3.0,5.0,,3.0,3.0,8.89,"steadied, good effort",Emerald Downs,20-07-2025,3
+12Jul25 'EMD',6,Sawtooth Bow,"Couton, Julien",121 L b,5,4,5.0,4.0,,4.0,4.0,8.13,"2,5-w, lacked rally",Emerald Downs,20-07-2025,3
+15Jun25 'EMD',3,Capiat,"Krigger, Kevin",122 L b f,2,7,6.0,6.0,,5.0,5.0,5.5,"4-w, no threat",Emerald Downs,20-07-2025,3
+3Jul25 'EMD',4,Five Twenty Sunset,"Tomita, Akatsuki",125 L b,3,6,7.0,7.0,,7.0,6.0,8.21,"3-w, no factor",Emerald Downs,20-07-2025,3
+12Jul25 'EMD',8,Chelan Summer,"Cruz, Alex",121 L b f,7,2,1.0,3.0,,6.0,7.0,11.8,"set pace, tired",Emerald Downs,20-07-2025,3
+27Jun25 'EMD',5,El Alto Hombre,"Tomita, Akatsuki",122 L,4,2,2.0,2.0,,1.0,1.0,4.18,"2-w, led, drew clear",Emerald Downs,20-07-2025,4
+20Jun25 'EMD',6,Mister Mafioso,"Amador, Silvio",122 L bf,5,4,1.0,1.0,,2.0,2.0,3.79,"set pace, held 2nd",Emerald Downs,20-07-2025,4
+28Jun25 'EMD',2,Awesome Move,"Matias, Javier",122 L b,2,6,6.0,5.0,,4.0,3.0,4.09,"5-w, mild rally",Emerald Downs,20-07-2025,4
+14Jun25 'EMD',1,Roll Dem Bones,"Americano, Manuel",117 L b,1,1,5.0,6.0,,5.0,4.0,2.96,"inside, lacked rally",Emerald Downs,20-07-2025,4
+3Jul25 'EMD',7,Hey Batman,"Castellanos, Adrian",122 L bf,6,5,3.0,3.0,,3.0,5.0,14.12,"3,4-w, weakened",Emerald Downs,20-07-2025,4
+3Jul25 'EMD',4,Always On Cay,"Cruz, Alex",122 L bf,3,3,4.0,4.0,,6.0,6.0,2.49,"2-w, no threat",Emerald Downs,20-07-2025,4
+28Jun25 6EMD5,5,Blazing Peme,"Kruger, Kevin",125 Lf,4,4,,3.0,1.0,1.0,11.0,1.74,"3-w, up late, clear",Emerald Downs,20-07-2025,5
+3Jul25 3EMD8,1,Square Cat,"Castellanos, Adrian",125 L bf,1,1,12.0,13.0,12.0,12.0,,0.93,"set pace, held 2nd",Emerald Downs,20-07-2025,5
+11Jul25 4EMD3,7,Sunny Spot,"Montalvo, Carlos",122 Lf,6,8,8.0,,6.0,6.0,3.0,16.05,"brushed, late rally",Emerald Downs,20-07-2025,5
+8Jun25 6EMD1,8,Amanofmystature,"Americano, Manuel",120 Lb,7,7,,2.0,4.0,4.0,,6.45,"4-w, evenly late",Emerald Downs,20-07-2025,5
+28Jun25 5EMD3,4,Right to Sue,"Cruz, Alex",122 L bf,3,3,2.0,,5.0,5.0,5.0,30.2,"2-w, weakened",Emerald Downs,20-07-2025,5
+11Jul25 4EMD8,2,Summanus,"Amador, Silvio",125 L bf,2,6,2.0,2.0,2.0,2.0,6.0,31.26,"tracked, tired",Emerald Downs,20-07-2025,5
+28Jun25 5EMD1,6,El Berrinches,"Couton, Julien",122 Lf,5,5,2.0,,,,1.0,20.49,"inside, no threat",Emerald Downs,20-07-2025,5
+3Jul25 7EMD6,9,Jacob Yen,"Haldar, David",122 L,8,2,2.0,8.0,8.0,8.0,8.0,54.08,"2-w, no menace",Emerald Downs,20-07-2025,5
+22Jun25 ²EMD²,5,Blackberry Jam,"McGregor, Kiaman",119 --,5,1,2.0,1.0,1.0,1.0,1.0,4.12,"dueled, edged clear",Emerald Downs,20-07-2025,6
+22Jun25 ²EMD³,2,Lead the Charge,"Amador, Silvio",120 b,2,2,1.0,2.0,2.0,2.0,2.0,2.66,"dueled, held gamely",Emerald Downs,20-07-2025,6
+22Jun25 ²EMD¹,3,Cantcatchthiscat,"Enriquez, Isaias",121 --,3,3,3.0,3.0,3.0,3.0,3.0,0.98*,"3-w, steady effort",Emerald Downs,20-07-2025,6
+---,4,Robin Racer,"Montalvo, Carlos",119 --,4,4,5.0,5.0,4.0,4.0,4.0,15.30,"inside, late interest",Emerald Downs,20-07-2025,6
+---,6,Global Agenda,"Monroy, Francisco",120 b,6,5,4.0,4.0,5.0,5.0,5.0,13.91,"2-w, no threat",Emerald Downs,20-07-2025,6
+---,1,Vino Viking,"Couton, Julien",119 --,1,6,6.0,6.0,6.0,6.0,6.0,8.81,"hopped, no menace",Emerald Downs,20-07-2025,6
+22Jun25 ⁷EMD²,1,Aloha Breeze,"Montalvo, Carlos",123 b,1,2,1.0,1.0,,1.0,1.0,0.43,"set pace, held edge",Emerald Downs,20-07-2025,7
+3Jul25 ⁹EMD¹,4,Lapush,"Couton, Julien",121 --,4,3,4.0,3.0,,2.0,2.0,8.19,"2,3-w, strong finish",Emerald Downs,20-07-2025,7
+22Jun25 ⁷EMD³,5,Brookys Gal,"Monroy, Francisco",121 --,5,5,5.0,4.0,,3.0,3.0,8.15,"3-w, mild rally",Emerald Downs,20-07-2025,7
+22Jun25 ⁷EMD⁵,2,Smiling Lady,"Amador, Silvio",121 bf,2,1,2.0,2.0,,4.0,4.0,17.58,"2,4-w, lacked rally",Emerald Downs,20-07-2025,7
+22Jun25 ⁷EMD⁷,6,Chai,"Enriquez, Isaias",121 b,6,4,3.0,5.0,,5.0,5.0,24.58,"weakened, DH 5th",Emerald Downs,20-07-2025,7
+22Jun25 ⁷EMD⁴,7,Shockingly Grey,"Americano, Manuel",125 b,7,7,7.0,7.0,,6.0,5.0,5.24,"no threat, DH 5th",Emerald Downs,20-07-2025,7
+18May25 ¹EMD⁴,3,Vulin,"Haldar, David",121 bf,3,6,6.0,6.0,,7.0,7.0,29.13,"3-w, no factor",Emerald Downs,20-07-2025,7
+22Jun25 4EMD,7,Falling Leaves,"Montalvo, Carlos",120 b,7,2,1.0,1.0,1.0,1.0,1.0,2.01,"clear early, handily",Emerald Downs,20-07-2025,8
+3May25 9TUP,5,Code of Valor,"Enriquez, Isaias",120 --,5,3,2.0,2.0,2.0,2.0,2.0,10.35,"bobbled, 2nd best",Emerald Downs,20-07-2025,8
+22Jun25 4EMD,6,Empire Bella,"Haldar, David",118 b,6,5,4.0,4.0,3.0,3.0,3.0,41.95,"2-w, mild rally",Emerald Downs,20-07-2025,8
+22Jun25 4EMD,1,Candy Creek,"Couton, Julien",118 f,1,4,3.0,3.0,4.0,4.0,4.0,10.82,"inside, steady effort",Emerald Downs,20-07-2025,8
+---,4,Knaughty Knight,"Americano, Manuel",118 f,4,7,9.0,9.0,5.0,5.0,5.0,4.67,"4-w, improved position",Emerald Downs,20-07-2025,8
+3May25 9TUP,9,Whiskey High,"Krigger, Kevin",120 --,9,8,5.0,5.0,6.0,6.0,6.0,1.88,"bobbled, lacked rally",Emerald Downs,20-07-2025,8
+21Jun25 9EDR,8,Diva in Motion,"McGregor, Kiaman",120 --,8,1,6.0,8.0,8.0,8.0,7.0,34.19,"inside, no threat",Emerald Downs,20-07-2025,8
+---,3,Belle of Edmonds,"Matias, Javier",118 --,3,6,8.0,6.0,7.0,7.0,8.0,25.23,"checked, no menace",Emerald Downs,20-07-2025,8
+---,2,Sparkley Barkley,"Monroy, Francisco",118 bf,2,9,7.0,7.0,9.0,9.0,9.0,10.82,"5-w, no factor",Emerald Downs,20-07-2025,8
+22Jun25 'EMD',6,Slew's Tiz Whiz,"Couton, Julien",121 --,6,2,6.0,5.0,,2.0,1.0,2.22,"split rivals, clear",Emerald Downs,20-07-2025,9
+15Jun25 'SA',5,Positivity,"Krieger, Kevin",121 b,5,8,8.0,8.0,,5.0,2.0,5.43,"5-w, finished fast",Emerald Downs,20-07-2025,9
+1Jun25 'EMD',9,Bearings,"Cruz, Alex",121 b,9,7,7.0,7.0,,6.0,3.0,22.97,"6-w, closed strongly",Emerald Downs,20-07-2025,9
+13Jun25 'EMD',2,Moneyshot,"Alvarado, Frank",121 --,2,9,9.0,9.0,,7.0,4.0,26.26,"angled out, late gain",Emerald Downs,20-07-2025,9
+22Jun25 'EMD',7,Clovisconnection,"Haldar, David",125 --,7,6,5.0,4.0,,3.0,5.0,2.19,"bobble, lacked rally",Emerald Downs,20-07-2025,9
+28Jun25 'EMD',4,Chuckanut Bay,"Americano, Manuel",121 bf,4,4,3.0,2.0,,1.0,6.0,2.82,"disputed, weakened",Emerald Downs,20-07-2025,9
+22Jun25 'EMD',1,Papa's Golden Boy,"Montalvo, Carlos",121 bf,1,5,1.0,1.0,,4.0,7.0,30.51,"bobble, tired",Emerald Downs,20-07-2025,9
+28Jun25 'EMD',8,Hockey Dad,"Duran, Francisco",121 --,8,1,4.0,6.0,,9.0,8.0,55.46,"4-w, gave way",Emerald Downs,20-07-2025,9
+22Jun25 'EMD',3,Tougherthantherest,"Amador, Silvio",121 b,3,3,2.0,3.0,,8.0,9.0,27.81,"vied, faltered",Emerald Downs,20-07-2025,9
+,2,Diciassette,"Ocasio, Jonathan",118 --,2,4,4.0,3.0,2.0,2.0,1.0,1,"bid 2wd 3/16,responded",Gulfstream Park,20-07-2025,1
+,6,Logan's On the Run,"Jaramillo, Emisael",118 --,5,1,1.0,1.0,1.0,2.0,2.0,2.5,"duel 2-3w,caught late",Gulfstream Park,20-07-2025,1
+,1,Wayne's Law,"Meneses, Marcos",118 --,1,5,2.0,2.0,3.0,3.0,3.0,2.8,"duel ins,yielded 1/8",Gulfstream Park,20-07-2025,1
+,3,Polizon,"Gonzalez, Edwin",118 b,3,3,5.0,5.0,4.0,4.0,4.0,13.6,"chased 2w-ins,ran on",Gulfstream Park,20-07-2025,1
+26Jun25 ¹GP³,4,Candy Road,"Boraco, David",118 b,4,6,6.0,6.0,6.0,5.0,5.0,21.2,"awk st,green,no factor",Gulfstream Park,20-07-2025,1
+7Jun25 ¹GP⁵,7,Reagan's Renegade,"Ferrer, Jose",118 b,6,2,3.0,4.0,5.0,6.0,6.0,12.6,"chased 3w,gave way",Gulfstream Park,20-07-2025,1
+,7,Metodo,"Lugo, Carlos",118 --,5,1,3.0,,1.0,1.0,1.0,8.7,"press 3w,drew off",Gulfstream Park,20-07-2025,2
+,2,Ristre,"Rios, Jesus",118 b,2,5,5.0,,5.0,4.0,2.0,2,"sqzd st,4w,ran on 2nd",Gulfstream Park,20-07-2025,2
+,1,Illustration,"Gonzalez, Edwin",118 b,1,2,2.0,,2.0,2.0,3.0,4.2,"duel ins,yielded",Gulfstream Park,20-07-2025,2
+,4,Zevi's Zone,"Vasquez, Miguel",118 b,4,3,1.0,,3.0,3.0,4.0,1,"duel btwn,weakened",Gulfstream Park,20-07-2025,2
+,3,Don't Go Astray,"Reyes, Leonel",118 --,3,4,4.0,,4.0,5.0,5.0,9.4,"off slw,chased,empty",Gulfstream Park,20-07-2025,2
+8Jun25 4GP1,2,Tres Coronas,"Ocasio, Jonathan",118 L bf,2,2,11.0,11.0,13.0,13.0,14.0,0.70*,"speed,as rider pleased",Gulfstream Park,20-07-2025,3
+15Jun25 5GP3,4,Adios Now,"Maragh, Rajiv",122 L b,4,5,6.0,,2.0,2.0,2.0,9.10,"3w,kept on,got up 2nd",Gulfstream Park,20-07-2025,3
+8Feb25 9GP2,7,Raging Fury,"Perez, Edgar",122 L b,6,3,2.0,,,,,3.00,"trckd 3w,outkicked",Gulfstream Park,20-07-2025,3
+20Jun25 8GP1,3,Avant Glory,"Vasquez, Miguel",122 L bf,3,1,1.0,,,,1.0,5.60,"btw 2w,tk up 5/16",Gulfstream Park,20-07-2025,3
+20Jun25 8GP4,1,Etendre,"Jaramillo, Emisael",122 L,1,6,2.0,,1.0,1.0,3.0,7.80,"trckd inside,gave way",Gulfstream Park,20-07-2025,3
+23May25 6GP6,6,Far From a Star,"Torres, Yolber",115 L b,5,4,,6.0,6.0,6.0,6.0,37.80,"chased 3-2w,faded",Gulfstream Park,20-07-2025,3
+21Jun25 10GP3,6,The Golden Gorilla,"Morelos, Jose",122 L bf,5,5,5.0,5.0,1.0,1.0,1.0,14.70,"circled 5w,ridden out",Gulfstream Park,20-07-2025,4
+29May25 4GP1,3,Tshiebwe,"Gil, Cipriano",124 L b,2,3,4.0,4.0,4.0,4.0,2.0,8.50,"ins-3w,no match,2d bst",Gulfstream Park,20-07-2025,4
+22Feb25 7GP5,1,Swirvin,"Zayas, Edgard",122 L,1,4,1.0,2.0,2.0,2.0,3.0,1.70,"showed speed,yielded",Gulfstream Park,20-07-2025,4
+19Jun25 8GP1,4,Latch the Hatch,"Gonzalez, Edwin",120 L b,3,2,2.0,1.0,3.0,3.0,4.0,0.70*,"press 2w,no rally",Gulfstream Park,20-07-2025,4
+21Jun25 10GP5,5,Turbo,"Jaramillo, Emisael",122 L b,4,1,3.0,3.0,5.0,5.0,5.0,9.60,"stalk 3-4w,gave way",Gulfstream Park,20-07-2025,4
+,5,Chi Town Prince,"Felix, Julio",119 b,3,2,2.0,,,1.0,1.0,2,"stalked2w,kicked clear",Hawthorne,20-07-2025,1
+,2,Bridge Classic,"Gonzalez, Santiago",120 b,1,3,3.0,,,3.0,2.0,3.1,"hop st,angld5w,rally",Hawthorne,20-07-2025,1
+,4,Chief Morter,"Loveberry, Jareth",119 b,2,1,1.0,,,2.0,3.0,0.6,"pace inside,evenly str",Hawthorne,20-07-2025,1
+31May25 5FP5,3,Cortese,"Giles, Emmanuel",122 L bf,2,4,5.0,5.0,,5.0,1.0,2.5,"swung7w1/4,surged clr",Hawthorne,20-07-2025,2
+3Jul25 6HAW1,1,Wildwood Sicilian,"Gonzalez, Santiago",124 L,1,1,1.0,3.0,,1.0,2.0,0.7,"pace,btw1/8,chased on",Hawthorne,20-07-2025,2
+3Jul25 6HAW7,5,Twirling Roses,"Hernandez, Israel",122 L,4,2,3.0,4.0,,4.0,3.0,12.6,"steady3/8,ins,willing",Hawthorne,20-07-2025,2
+3Jul25 6HAW3,6,Mister Kelly,"Hernandez, Olaf",122 --,5,3,2.0,1.0,,2.0,4.0,4.1,"chase3w,left-ld,flaten",Hawthorne,20-07-2025,2
+3Jul25 6HAW5,4,Unpredictable Bay,"Tavares, Javier",122 L bf,3,5,4.0,2.0,,3.0,5.0,18.7,"hop st,4w,left-ld,fade",Hawthorne,20-07-2025,2
+26Jun25 'HAW',1,Neon Deion,"Gonzalez, Santiago",122 L b,1,1,1.0,1.0,,1.0,1.0,1.7,"left-ld,drift,held on",Hawthorne,20-07-2025,3
+14Jun25 'BTP',5,Manchester,"Murgia, Antioco",122 L b,4,2,2.0,2.0,,2.0,2.0,10.1,"bid ins1/8,late rally",Hawthorne,20-07-2025,3
+21Jun25 'FP',8,American Cause,"Bendezu, Alexander",122 L f,6,5,4.0,4.0,,3.0,3.0,4.7,"bid4w1/4,willingly str",Hawthorne,20-07-2025,3
+29Jun25 'HAW',6,Sharp Stick,"Hernandez, Olaf",122 L b,5,6,5.0,5.0,,4.0,4.0,1.7,"btw3/8,4w1/8,noKick",Hawthorne,20-07-2025,3
+12Jul25 'FP',2,Demand Ransom,"Tavares, Javier",122 L b,2,3,3.0,3.0,,5.0,5.0,41.1,"bump st,ins1/4,empty",Hawthorne,20-07-2025,3
+25May25 'HAW',4,Man On Attack,"Loveberry, Jareth",122 L b,3,4,6.0,6.0,,6.0,6.0,5.2,"bumped3x,faltered str",Hawthorne,20-07-2025,3
+29Jun25 7HAW10,4,New Year Surprise,"Colon, Luis",122 L b,4,2,2.0,2.0,1.0,1.0,1.0,1.6,"duel2w3/8,drew away",Hawthorne,20-07-2025,4
+10Jul25 ⁵HAW⁶,1,Shady McGee (IRE),"Loveberry, Jareth",122 L,1,6,4.0,4.0,3.0,2.0,2.0,2.8,"loom/split1/4,evenly",Hawthorne,20-07-2025,4
+12Jul25 ⁴FP⁶,6,Sixwillberich,"Tavares, Javier",122 L b,6,1,3.0,3.0,4.0,3.0,3.0,4.6,"bid5w1/4,along show",Hawthorne,20-07-2025,4
+10Jul25 ⁶HAW⁵,7,Land Mark Deal,"Reyes, Frank",122 L b,7,5,6.0,6.0,6.0,6.0,4.0,8.8,"split-fades, no impact",Hawthorne,20-07-2025,4
+18Dec24 ²TP⁷,2,Lookin for Revenge,"Gonzalez, Santiago",122 L b f,2,3,1.0,1.0,2.0,4.0,5.0,5.7,"pace inside, gave way",Hawthorne,20-07-2025,4
+29Jun25 ⁸HAW¹⁰,5,U S Honour Nap,"Esquivel, Valentin",117 L b f,5,4,5.0,5.0,5.0,5.0,6.0,27.5,"pulled4w,weakened str",Hawthorne,20-07-2025,4
+29Jun25 ⁶HAW⁴,3,Diamond Dave,"Hernandez, Israel",122 L b,3,7,7.0,7.0,7.0,7.0,7.0,13,"slow start, no factor",Hawthorne,20-07-2025,4
+10Jul25 ²HAW²,12,Ballybay Beauty,"Gonzalez, Santiago",120 L b,10,2,5.0,4.0,1.0,1.0,1.0,7.7,"circled5w1/4,drew off",Hawthorne,20-07-2025,5
+12Jun25 ⁷HAW⁵,2,Roaring Vixen,"Reyes, Frank",120 L b,2,8,3.0,3.0,3.0,3.0,2.0,10.6,"cut corner1/4,2d best",Hawthorne,20-07-2025,5
+11Jun25 ¹IND⁵,6,Unkept Promises,"Giles, Emmanuel",120 L,4,1,2.0,2.0,2.0,2.0,3.0,5.2,"bid4w1/8,willingly str",Hawthorne,20-07-2025,5
+17Jun25 ⁵IND⁴,3,Reimagine,"Loveberry, Jareth",120 L b,3,3,4.0,5.0,6.0,4.0,4.0,1.8,"angld5w1/4,flattened",Hawthorne,20-07-2025,5
+1Jun25 ²HAW⁹,10,I'm Hungover,"Colon, Luis",120 L,8,6,7.0,7.0,4.0,5.0,5.0,7.3,"saved ground,no kick",Hawthorne,20-07-2025,5
+26Jun25 ³HAW³,1,Trinitythreeinone,"Ulloa, Carlos",120 L,1,9,8.0,8.0,7.0,6.0,6.0,18.2,"slow st,5w1/4,no bid",Hawthorne,20-07-2025,5
+12Jun25 ⁷HAW⁹,9,Catnip Hill,"Bendezu, Alexander",120 --,7,7,9.0,9.0,9.0,7.0,7.0,37.6,"lost irons-1st,empty",Hawthorne,20-07-2025,5
+10Jul25 ²HAW²,7,D' Argonaut,"Hernandez, Olaf",120 L b,5,4,1.0,1.0,5.0,8.0,8.0,3.8,"pace early,eased home",Hawthorne,20-07-2025,5
+26Jun25 ³HAW⁸,11,La Mula Uno,"Hernandez, Israel",124 L b,9,10,10.0,10.0,10.0,9.0,9.0,28.1,"sluggish st,no threat",Hawthorne,20-07-2025,5
+26Jun25 ³HAW⁹,8,Chinatown Girl,"Tavares, Javier",120 L b,6,5,6.0,6.0,8.0,10.0,10.0,33.6,"jostled1st,no factor",Hawthorne,20-07-2025,5
+10Jul25 4HAW2,8,Winging Ways,"Bendezu, Alexander",122 L bf,7,3,1.0,1.0,1.0,1.0,1.0,0.60*,"dictated tempo,driving",Hawthorne,20-07-2025,6
+29Jun25 8HAW6,5,Line to Gain,"Reyes, Frank",122 L bf,5,5,4.0,2.0,2.0,2.0,2.0,7.00,"btw3/8,2w1/8,willingly",Hawthorne,20-07-2025,6
+29Jun25 8HAW9,4,Storm's Reflection,"Esquivel, Valentin",117 L f,4,1,5.0,5.0,4.0,4.0,3.0,27.70,"stout drv,up show late",Hawthorne,20-07-2025,6
+3Jul25 3HAW4,1,Tallapoosa,"Hernandez, Israel",122 L b,1,2,2.0,3.0,3.0,3.0,4.0,3.50,"veered in,vied,evenly",Hawthorne,20-07-2025,6
+3Jul25 3HAW5,6,Champagne Mike,"Tavares, Javier",122 L bf,6,4,3.0,4.0,5.0,5.0,5.0,18.60,"chase3w3/8,flattened",Hawthorne,20-07-2025,6
+3Jul25 3HAW2,2,Ancient Man,"Ulloa, Carlos",122 L b,2,7,7.0,6.0,6.0,6.0,6.0,10.80,"stuck in gate, empty",Hawthorne,20-07-2025,6
+3Jul25 3HAW8,3,Son of Grace,"Gonzalez, Santiago",122 L b,3,6,6.0,7.0,7.0,7.0,7.0,22.70,"trailer1/4, no threat",Hawthorne,20-07-2025,6
+10Jul25 ⁶HAW¹,7,DQ-Jet Flight,"Colon, Luis",122 L bf,7,6,6.0,4.0,2.0,2.0,1.0,2.9,"ins foe,drift,dump,up",Hawthorne,20-07-2025,7
+3Jul25 ⁵HAW⁷,2,Euclid Avenue,"Reyes, Frank",122 L b,2,5,2.0,2.0,3.0,1.0,2.0,2.5,"vie2w1/8,bump,game",Hawthorne,20-07-2025,7
+10Jul25 ⁶HAW²,1,Flying Samurai,"Tavares, Javier",124 L bf,1,1,1.0,1.0,1.0,3.0,3.0,6.9,"pace off rail,ran on",Hawthorne,20-07-2025,7
+12Jun25 ²HAW⁵,3,Danville,"Loveberry, Jareth",122 L b,3,4,3.0,5.0,4.0,4.0,4.0,3.3,"bid4w1/8,one paced str",Hawthorne,20-07-2025,7
+29Jun25 ⁸HAW⁷,4,First Masamune,"Gonzalez, Santiago",122 L bf,4,2,7.0,6.0,6.0,5.0,5.0,7.4,"shuffled1st,no kick",Hawthorne,20-07-2025,7
+3Jul25 ³HAW¹,5,Ice Axe,"Bendezu, Alexander",122 L b,5,8,8.0,7.0,7.0,7.0,6.0,36.1,"hit gate,4w1/8,empty",Hawthorne,20-07-2025,7
+6Jul25 ⁸HAW⁵,9,Regimental,"Hernandez, Israel",122 L b,8,7,4.0,3.0,5.0,6.0,7.0,13.1,"tugged5w1/2,weakenend",Hawthorne,20-07-2025,7
+18May25 ⁷HAW¹,6,Rocket Hotshot,"Giles, Emmanuel",122 L,6,3,5.0,8.0,8.0,8.0,8.0,13.3,"roused4w,faltered str",Hawthorne,20-07-2025,7
+29Jun25 2LA1,6,Bonus Tornado,"Payeras, Edgar",125 L,6,1,2.0,,,11.0,13.0,2.3,"3w,took command,best off trio,pause turn,3w",Los Alamitos,20-07-2025,1
+29Jun25 2LA3,2,Chispa Roja,"Figuroa, Cerapio",123 L b,2,6,2.0,,,,,2.6,"bpd st,ins w/trio,kept",Los Alamitos,20-07-2025,1
+22Jun25 5LA7,4,Hot Pursuit,"Vargas, Salvador",118 L bf,4,3,1.0,,,,2.0,4.3,"bpd st,2w,took up late",Los Alamitos,20-07-2025,1
+29Jun25 2LA4,3,Mischief's King,"Hernandez, Efrain",125 L b,3,5,6.0,,,2.0,2.0,9.4,"brk in,ins,no rally",Los Alamitos,20-07-2025,1
+28Jun25 4LA1,1,Driver's Ed,"Ramirez, Francisco",126 L bf,1,4,,,,6.0,,3.3,"vied btwn,tired turn",Los Alamitos,20-07-2025,1
+28Jun25 4LA3,5,Exhalting,"Ramirez, Ricardo",123 L,5,2,,,,4.0,6.0,6.7,"3w,took command,best off trio,pause turn,3w",Los Alamitos,20-07-2025,1
+5Jul25 ^{3}MTH^{5},3,Magical Road,"Leon, Sonny",121 L bf,2,4,2.0,1.0,1.0,1.0,1.0,3.3,"vied 2w, led, driving",Monmouth Park,20-07-2025,1
+5Jul25 ^{3}MTH^{2},5,Get Like Mike,"Maragh, Christian",114 L b,3,1,3.0,3.0,2.0,2.0,2.0,1.1,"stalked, bid, no match",Monmouth Park,20-07-2025,1
+6Jul25 ^{1}MTH^{6},6,Food Bank Helper,"Marin, Samuel",121 L,4,2,4.0,4.0,4.0,3.0,3.0,4.3,"trailed, no rally",Monmouth Park,20-07-2025,1
+6Jul25 ^{1}MTH^{9},1,Last Second Louie,"Jara, Fernando",121 L b,1,3,1.0,2.0,3.0,4.0,4.0,2,"vied inside, gave way",Monmouth Park,20-07-2025,1
+25May25 ⁸MTH¹,4,Protected,"Lopez, Paco",117 L b,4,3,1.0,1.0,1.0,1.0,1.0,1.1,"drift out & in, held",Monmouth Park,20-07-2025,2
+27Jun25 ⁴MTH²,3,Last Romance,"Maldonado, Gabriel",121 L f,3,1,4.0,3.0,3.0,2.0,2.0,3.8,"5w into lane, rallied",Monmouth Park,20-07-2025,2
+8Jun25 ⁷MTH¹,2,Forever Chocolate,"Leon, Sonny",122 L b,2,2,3.0,4.0,4.0,4.0,3.0,3,"inside trip, mild rally",Monmouth Park,20-07-2025,2
+6Jul25 ⁵MTH¹,7,Amatteroftime,"Castillo, Isaac",121 L bf,6,5,5.0,5.0,5.0,5.0,4.0,10.2,belatedly outside,Monmouth Park,20-07-2025,2
+27Jun25 ⁴MTH¹,5,Grouch,"Jara, Fernando",124 L b,5,4,2.0,2.0,2.0,3.0,5.0,4.6,"stalked, bid, tired",Monmouth Park,20-07-2025,2
+27Jun25 ⁴MTH⁵,1,Irish Boolum,"Gonzalez, Jorge",121 L b,1,6,6.0,6.0,6.0,6.0,6.0,37.2,outrun,Monmouth Park,20-07-2025,2
+22Jun25 ⁷MTH¹,7,Factorbella,"Leon, Sonny",118 --,6,1,2.0,2.0,1.0,1.0,1.0,1.4,"rallied, pulled away",Monmouth Park,20-07-2025,3
+18Jan25 ⁷LRL¹,6,Ms. Bucchero,"Jara, Fernando",124 b,5,2,1.0,1.0,2.0,2.0,2.0,4.4,"set pace, 2d best",Monmouth Park,20-07-2025,3
+28Jun25 ⁹LRL¹,2,St. Benedicts Prep,"Lopez, Paco",124 --,1,4,3.0,3.0,3.0,3.0,3.0,1,"ins, shuffle, no rally",Monmouth Park,20-07-2025,3
+20Jun25 ²MTH¹,5,Tavin,"Marin, Samuel",118 bf,4,3,4.0,4.0,4.0,4.0,4.0,20.2,"chased turn, mildly",Monmouth Park,20-07-2025,3
+22Jun25 ⁷MTH²,4,Awesome Pic,"Aguilar, Jean",118 b,3,6,5.0,5.0,5.0,5.0,5.0,55,"5w into lane, tired",Monmouth Park,20-07-2025,3
+22Jan25 ⁸TAM⁵,3,Pacific Rose,"Sutherland, Chantal",118 --,2,5,6.0,6.0,6.0,6.0,6.0,14.4,"inside, outrun",Monmouth Park,20-07-2025,3
+6Jul25 ⁷MTH⁵,6,Lloyd,"Olver, Madison",121 L bf,4,5,2.0,2.0,1.0,1.0,1.0,3.10,"step slow, bid turn",Monmouth Park,20-07-2025,4
+6Jul25 ⁷MTH²,7,Diamond Heist,"Marin, Samuel",121 L f,5,1,1.0,1.0,2.0,2.0,2.0,1.00*,"pace, dueled, dug in",Monmouth Park,20-07-2025,4
+6Jul25 ⁷MTH³,2,Magical Warrior,"Castillo, Isaac",122 L bf,1,4,4.0,4.0,3.0,3.0,3.0,1.90,"between turn, no bid",Monmouth Park,20-07-2025,4
+20Jun25 ⁴MTH⁵,5,Elusive d'Oro,"Leon, Sonny",121 L,3,2,3.0,5.0,5.0,4.0,4.0,12.40,"chased inside, tired",Monmouth Park,20-07-2025,4
+16Jun25 ⁷PRX⁶,4,Justinspeightofit,"Gonzalez, Jorge",121 L f,2,3,5.0,3.0,4.0,5.0,5.0,13.40,"chased 3w turn, tired",Monmouth Park,20-07-2025,4
+11Jul25 ²MTH¹,1,Sheza Bernardini,"Sutherland, Chantal",124 L b,1,3,2.0,2.0,2.0,1.0,1.0,1.10*,"pulled away, riddn out",Monmouth Park,20-07-2025,5
+27Jun25 ⁸MTH³,3,Stormy Mitole,"Gonzalez, Jorge",121 L,3,1,1.0,1.0,1.0,2.0,2.0,2,"pace, dueled, no match",Monmouth Park,20-07-2025,5
+12Jul25 ⁹MTH⁷,8,Heavens Express,"Leon, Sonny",121 L b,6,5,6.0,6.0,5.0,4.0,3.0,9,"stumbled start, got 3d",Monmouth Park,20-07-2025,5
+27Jun25 ⁸MTH⁷,4,One Violent Affair,"Maragh, Christian",114 L bf,4,2,5.0,5.0,3.0,3.0,4.0,21.1,"3w, chased, tired",Monmouth Park,20-07-2025,5
+4Jul25 ¹MTH⁵,5,No Fake,"Lopez, Paco",121 L f,5,4,3.0,3.0,4.0,5.0,5.0,2.8,"stalked early, faded",Monmouth Park,20-07-2025,5
+7Jul25 ⁴PRX³,2,Dorothy's the Boss,"Ocasio, Luis",121 L f,2,6,4.0,4.0,6.0,6.0,6.0,,declared non starter,Monmouth Park,20-07-2025,5
+13Jul25 'MNR',5,Poseidon's Son,"Whitacre, Brandon",123 L bf,5,3,2.0,2.0,,1.0,1.0,0.8,"abreast, edged up",Mountaineer Casino Racetrack & Resort,20-07-2025,1
+29Jun25 'MNR',2,Court Contender,"Stokes, Joe",123 L b,2,1,1.0,1.0,,2.0,2.0,4.9,ceded grudgingly ins,Mountaineer Casino Racetrack & Resort,20-07-2025,1
+30Jun25 'TDN',6,O Romeo,"Gonzalez, Kevin",123 L b,6,4,3.0,3.0,,3.0,3.0,6.2,"drop off turn, evenly,",Mountaineer Casino Racetrack & Resort,20-07-2025,1
+14Jul25 'MNR',4,Genius,"Vilchez, Maikol",123 L b,4,5,6.0,5.0,,5.0,4.0,21.4,"slow early, no menace",Mountaineer Casino Racetrack & Resort,20-07-2025,1
+29Jun25 'MNR',1,Ski Country,"Aviles, Yan",123 L b,1,6,5.0,4.0,,4.0,5.0,2.4,played no factor,Mountaineer Casino Racetrack & Resort,20-07-2025,1
+30Jun25 'MNR',3,Act of Valor,"Toledo, Joam",123 L bf,3,2,4.0,6.0,,6.0,6.0,42.9,faded on the turn,Mountaineer Casino Racetrack & Resort,20-07-2025,1
+8Jul25 5MNR2,1,Bounteous,"Barbaran, Erik",120 L bf,1,3,,,2.0,1.0,13.0,1.7,"3deep lane, driving,",Mountaineer Casino Racetrack & Resort,20-07-2025,2
+22Jun25 5MNR1,6,Take My Allowance,"Negron, Luis",123 L b,6,2,,,3.0,2.0,3.0,4.7,"hard used, stayed on",Mountaineer Casino Racetrack & Resort,20-07-2025,2
+8Jul25 6MNR1,4,Big Way,"Gomez, Alejandro",123 L,4,5,2.0,,,,1.0,23.9,gained late 6 wide,Mountaineer Casino Racetrack & Resort,20-07-2025,2
+1Jul25 4MNR4,2,Perfect Moon,"Oliveros, Charle",120 L bf,2,1,11.0,11.0,11.0,,4.0,4.5,"dueled ins, weakened,",Mountaineer Casino Racetrack & Resort,20-07-2025,2
+24Jun25 3MNR3,3,Weekend Flame,"Weatherly, Bailey",120 L b,3,4,,,,,1.0,1.4,"hopped, vied ins faded",Mountaineer Casino Racetrack & Resort,20-07-2025,2
+1Jul25 4MNR6,5,Luvtheoneurwith,"Diaz, Renzo",120 L b,5,6,6.0,6.0,6.0,6.0,6.0,23.6,always outrun,Mountaineer Casino Racetrack & Resort,20-07-2025,2
+22May25 ⁸BTP⁷,6,Stratogale,"Negron, Luis",120 L b,4,1,15.0,,,,14.0,0.9,"quick command driving,",Mountaineer Casino Racetrack & Resort,20-07-2025,3
+7Jul25 ⁴MNR³,8,Fine by Design,"Gonzalez, Kevin",120 L b,6,4,,,,,1.0,7.4,"evenly, second best,",Mountaineer Casino Racetrack & Resort,20-07-2025,3
+6Jul25 ¹MNR⁸,1,X Gene,"Barrios, Ricardo",122 L,1,2,,,,,4.0,2.6,"chase pace weakened,",Mountaineer Casino Racetrack & Resort,20-07-2025,3
+24Jun25 ⁷MNR⁵,4,S S Flamingo,"Stokes, Joe",120 L,3,5,7.0,,,2.0,3.0,9.8,passed a few top lane,Mountaineer Casino Racetrack & Resort,20-07-2025,3
+6Jan25 ⁶TUP⁴,7,Hard to Forget,"Whitacre, Brandon",120 L b,5,7,2.0,,,,3.0,10.5,never involved,Mountaineer Casino Racetrack & Resort,20-07-2025,3
+2Jul25 ⁶PID²,9,Tovia,"Barbaran, Erik",120 L f,7,6,5.0,,,2.0,,8,played no factor,Mountaineer Casino Racetrack & Resort,20-07-2025,3
+30Jun25 ⁸MNR⁸,2,Degage,"Gomez, Alejandro",120 L,2,3,,,,7.0,,48.4,always outrun,Mountaineer Casino Racetrack & Resort,20-07-2025,3
+29Jun25 'MNR',9,Candy Crushem,"Negron, Luis",123 L bf,6,4,3.0,4.0,3.0,2.0,1.0,1.2,"bid widest, cleared",Mountaineer Casino Racetrack & Resort,20-07-2025,4
+9Jul25 'MNR',5,My Indy,"Gomez, Alejandro",123 L,5,3,2.0,2.0,1.0,1.0,2.0,1.4,no breathers ceded,Mountaineer Casino Racetrack & Resort,20-07-2025,4
+5May25 'MNR',4,Absolute Courage,"Whitacre, Brandon",123 L,4,1,1.0,1.0,2.0,3.0,3.0,2.9,"pressed pace, short",Mountaineer Casino Racetrack & Resort,20-07-2025,4
+9Jul25 'MNR',1,Forloveofcountry,"Toledo, Joam",123 L f,1,2,4.0,3.0,4.0,4.0,4.0,15.3,weakened on far turn,Mountaineer Casino Racetrack & Resort,20-07-2025,4
+10Jun25 'MNR',3,Skycraft,"Yaranga, Yuri",123 L b,3,5,5.0,5.0,5.0,5.0,5.0,30.9,always outrun,Mountaineer Casino Racetrack & Resort,20-07-2025,4
+2Dec24 'MNR',2,Youvesaiditall,"Davila, Jose",128 L b,2,6,,,6.0,6.0,6.0,49.9,always outrun,Mountaineer Casino Racetrack & Resort,20-07-2025,4
+9Jul25 ⁶MNR¹,2,Red Hurricane,"Barbaran, Erik",123 L bf,2,1,1.0,1.0,1.0,1.0,1.0,0.90,abreast foe clear late,Mountaineer Casino Racetrack & Resort,20-07-2025,5
+9Jul25 ⁶MNR²,1,Gates of Heaven,"Barrios, Ricardo",122 L b,1,2,2.0,2.0,2.0,2.0,2.0,1.20,ceded grudgingly ins,Mountaineer Casino Racetrack & Resort,20-07-2025,5
+1Jul25 ⁷MNR⁶,6,Flat Lucky,"Gomez, Alejandro",120 L,6,6,6.0,5.0,4.0,3.0,3.0,19.00,late bid held others,Mountaineer Casino Racetrack & Resort,20-07-2025,5
+9Jul25 ⁶MNR³,4,Foreman,"Negron, Luis",120 L b,4,5,5.0,4.0,3.0,4.0,4.0,6.80,"rallied turn, even fin",Mountaineer Casino Racetrack & Resort,20-07-2025,5
+1Jul25 ⁷MNR⁷,5,All the Way,"Oliveros, Charle",120 L b,5,3,3.0,3.0,5.0,5.0,5.0,21.80,"chased to 1/4p, tired,",Mountaineer Casino Racetrack & Resort,20-07-2025,5
+13Jul25 ²MNR⁵,3,Class Actor,"Pagan, Michael",113 L b,3,4,4.0,6.0,6.0,6.0,6.0,50.60,folded abruptly turn,Mountaineer Casino Racetrack & Resort,20-07-2025,5
+3Jul25 'TDN',7,Star Entertainer,"Weatherly, Bailey",120 L f,5,4,5.0,5.0,3.0,2.0,1.0,5.9,mid tk surge in time,Mountaineer Casino Racetrack & Resort,20-07-2025,6
+1Jul25 'MNR',2,Florida Gator,"Whitacre, Brandon",120 L bf,2,2,1.0,1.0,1.0,1.0,2.0,3.2,"worked clear, caught",Mountaineer Casino Racetrack & Resort,20-07-2025,6
+17Jun25 'MNR',4,Road to Stardom,"Gonzalez, Kevin",120 L f,3,5,3.0,2.0,2.0,3.0,3.0,2.1,"steadied break, rushed",Mountaineer Casino Racetrack & Resort,20-07-2025,6
+13May25 'MNR',1,Play Chicken,"Barbaran, Erik",120 L b,1,1,2.0,3.0,5.0,4.0,4.0,1.3,"sent hard, wilted turn",Mountaineer Casino Racetrack & Resort,20-07-2025,6
+23Jun25 'MNR',5,Tommy Bee,"Aviles, Yan",120 L b,4,3,4.0,4.0,4.0,5.0,5.0,10.6,faded on the far turn,Mountaineer Casino Racetrack & Resort,20-07-2025,6
+29Jun25 'MNR',8,Highway Robbery,"Gonzalez, Kevin",123 --,8,1,2.0,2.0,,1.0,1.0,7,edged clear held drvng,Mountaineer Casino Racetrack & Resort,20-07-2025,7
+29Jun25 'MNR',5,Heavenly Lady,"Vilchez, Maikol",118 L bf,5,4,3.0,3.0,,3.0,2.0,2.4,drifted wide to lane,Mountaineer Casino Racetrack & Resort,20-07-2025,7
+29Jun25 'MNR',2,Une de Mai,"Barrios, Ricardo",123 L bf,2,3,1.0,1.0,,2.0,3.0,13,"set pace, weakened,",Mountaineer Casino Racetrack & Resort,20-07-2025,7
+9Jul25 'MNR',1,Snowbird,"Yaranga, Yuri",123 b,1,6,4.0,4.0,,4.0,4.0,27.7,"evenly, lacked more",Mountaineer Casino Racetrack & Resort,20-07-2025,7
+1Jun25 'GP',7,Pigeon Cay,"Barban, Erik",123 L bf,7,7,7.0,5.0,,6.0,5.0,0.6,bumped steadied break,Mountaineer Casino Racetrack & Resort,20-07-2025,7
+29Jun25 'MNR',6,Prettyrunner,"Taboada Flores, Limber",116 L,6,5,6.0,6.0,,5.0,6.0,159.3,bumped squeezed brk,Mountaineer Casino Racetrack & Resort,20-07-2025,7
+9Jul25 'MNR',3,Paul's Tricky Tale,"Negron, Luis",123 L b,3,2,5.0,8.0,,8.0,7.0,16.9,always outrun,Mountaineer Casino Racetrack & Resort,20-07-2025,7
+29Jun25 'MNR',4,Bellafleet,"Simpson, Jason",123 L bf,4,8,8.0,7.0,,7.0,8.0,51,showed little,Mountaineer Casino Racetrack & Resort,20-07-2025,7
+30Jun25 '6PRM',3,Baylewick,"Pusac, Alberto",118 BL,3,1,2.0,2.0,,1.0,1.0,2.7,"duel btwn,ins,gamely",Prairie Meadows,20-07-2025,1
+5Jul25 '11PRM',1,Peggy Rules,"Bacon, Tyler",118 BL,1,6,5.0,5.0,,3.0,2.0,2.7,"2wbid,vied,just miss",Prairie Meadows,20-07-2025,1
+22Sep24 '8PRM',6,Kasa,"Roman, Kevin",118 BL bh,6,4,4.0,4.0,,5.0,3.0,1.7,"track trio,4wd str bid",Prairie Meadows,20-07-2025,1
+15Jun25 '12PRM',2,Luckyhotstuff,"Gonzalez, Elvin",118 BL,2,5,3.0,3.0,,2.0,4.0,7.9,"vied inside,wknd late",Prairie Meadows,20-07-2025,1
+5Jul25 '11PRM',4,Diamond of Ekati,"Jordan, Kylee",118 BL bh,4,3,1.0,1.0,,4.0,5.0,5,"vied 3w,flatned out",Prairie Meadows,20-07-2025,1
+13Apr25 '4FON',5,Aprettylulaby,"Huckaby, Ronnie",113 BL,5,2,6.0,6.0,,6.0,6.0,27.4,"urged 2wd,no response",Prairie Meadows,20-07-2025,1
+21Jun25 ⁷PRM²,2,Cravensworth,"Triana, Jr., Alfredo",124 BL bf,2,4,1.0,1.0,,1.0,1.0,2.4,"duel ins,shook clr3/16",Prairie Meadows,20-07-2025,2
+6Jul25 ⁵PRM³,1,Mr. Sweets,"Bacon, Tyler",120 BL b,1,6,6.0,6.0,4.0,4.0,2.0,3,"in back,rail bid,gain",Prairie Meadows,20-07-2025,2
+12Jul25 ⁷PRM⁵,3,Hey,"Roman, Kevin",120 BL b,3,2,2.0,2.0,2.0,2.0,3.0,2.1,"duel 2wd,no match upr.",Prairie Meadows,20-07-2025,2
+12Jul25 ⁷PRM⁶,6,Cool and Cloudy,"De La Cruz, Walter",124 BL,6,1,4.0,3.0,3.0,3.0,4.0,7.6,"3wd bid 1/4p,evn lane",Prairie Meadows,20-07-2025,2
+21Jun25 ⁷PRM³,5,Remaining Nameless,"Gonzalez, Elvin",120 BL b,5,3,3.0,4.0,5.0,5.0,5.0,5.9,"bump after st,bid,wknd",Prairie Meadows,20-07-2025,2
+24May25 ²PRM⁴,4,Social Sooner,"Huckaby, Ronnie",115 BL bh,4,5,5.0,5.0,6.0,6.0,6.0,11.3,bump btwn after start,Prairie Meadows,20-07-2025,2
+8Jun25 'PRM',2,Logical Myth,"Gonzalez, Elvin",125 BL b,1,4,4.0,3.0,1.0,1.0,1.0,4.6,"took over 1/4, edg away",Prairie Meadows,20-07-2025,3
+29Jun25 'PRM',3,Shotshell,"Roman, Kevin",120 BL,2,1,1.0,1.0,2.0,2.0,2.0,1.5,"vied ins, overtaken 1/4",Prairie Meadows,20-07-2025,3
+4Jul25 'CBY',5,Max's Map,"Tohill, Ken",122 BL b,4,3,2.0,2.0,3.0,4.0,3.0,12.5,"vied 2, no match 1/4p",Prairie Meadows,20-07-2025,3
+29Jun25 'PRM',6,Inca Empire,"Bacon, Tyler",125 BL f,5,2,3.0,4.0,4.0,3.0,4.0,1.2,"trck pc, ask 5/16, no kik",Prairie Meadows,20-07-2025,3
+29Jun25 'PRM',4,Holding Pattern,"Pusac, Alberto",125 BL b,3,5,5.0,5.0,5.0,5.0,5.0,7.3,"in back, 4w, no impact",Prairie Meadows,20-07-2025,3
+21Jun25 'PRM',1,Sweet Viola,"Roman, Kevin",118 BL h,1,6,3.0,2.0,,1.0,1.0,1,"ins bid 7/16p,clear",Prairie Meadows,20-07-2025,4
+13Jun25 'PRM',7,Saturdaynitealrite,"Tohill, Ken",124 BL,7,3,2.0,1.0,,2.0,2.0,1.4,clearly second best,Prairie Meadows,20-07-2025,4
+29Jun25 'PRM',4,Supine Duchess,"Huckaby, Ronnie",119 BL,4,4,4.0,6.0,,4.0,3.0,18.1,"trck pc,bid 2w,kpt on",Prairie Meadows,20-07-2025,4
+13Jun25 'PRM',2,Lil Friend,"Bacon, Tyler",118 BL h,2,5,6.0,5.0,,3.0,4.0,5.7,"2nd flight,ins,wknd",Prairie Meadows,20-07-2025,4
+23May25 'PRM',3,Lilly of Prince,"Hernandez, Carlos",118 BL b,3,7,7.0,7.0,,7.0,5.0,36,"lack speed,no impact",Prairie Meadows,20-07-2025,4
+21Jun25 'PRM',5,Morning Glory Gold,"Pusac, Alberto",118 BL b,5,2,5.0,4.0,,6.0,6.0,45.5,"in range early,faded",Prairie Meadows,20-07-2025,4
+29Jun25 'PRM',6,Hollywood Movie,"Gonzalez, Elvin",124 BL,6,1,1.0,3.0,,5.0,7.0,13.1,"vied,ran on,empty lane",Prairie Meadows,20-07-2025,4
+7Jun25 '8PRM',1,Singing Emma,"De La Cruz, Walter",121 BL bf,1,3,1.0,1.0,,1.0,1.0,1.2,"vied,led,just lasted",Prairie Meadows,20-07-2025,5
+16Jun25 '13PRM',5,Collected Glory,"Tohill, Ken",125 BL,5,1,2.0,2.0,,2.0,2.0,3.8,"vied 1/4,back up gamly",Prairie Meadows,20-07-2025,5
+21Mar25 '2OP',2,Charmonte,"Bacon, Tyler",121 BL bf,2,5,3.0,3.0,,3.0,3.0,3.2,"urged rail,kept on",Prairie Meadows,20-07-2025,5
+7Jun25 '8PRM',4,Sweet Mother Mary,"Jordan, Kylee",125 BL f,4,6,6.0,6.0,,4.0,4.0,3.5,"hop start,chased 2wd",Prairie Meadows,20-07-2025,5
+13Jun25 '2PRM',6,Long May She Run,"Pusac, Alberto",121 BL,6,2,5.0,5.0,,6.0,5.0,22.5,"ridden 2-3w,no rally",Prairie Meadows,20-07-2025,5
+22Jun25 '5PRM',3,Goddess of War,"Gonzalez, Elvin",121 BL bf,3,4,4.0,4.0,,5.0,6.0,21.3,"in range,faded lane",Prairie Meadows,20-07-2025,5
+21Jun25 'PRM',1,Kissed a Cadet,"Tohill, Ken",125 BL,1,5,4.0,5.0,,3.0,1.0,6.3,"trck pc,cue 4w,edg awy",Prairie Meadows,20-07-2025,6
+3Jul25 'PRM',3,La Fee's Secret,"Corbett, Glenn",125 BL,3,3,5.0,3.0,,1.0,2.0,7,"up 1/4p, vied, denied",Prairie Meadows,20-07-2025,6
+3Jul25 'PRM',2,Red Romance,"De La Cruz, Walter",115 BL b,2,4,1.0,4.0,,5.0,3.0,8,"vied, wkd 1/4p, ran on",Prairie Meadows,20-07-2025,6
+3Jul25 'PRM',5,Time to Sing,"Huckaby, Ronnie",115 BL b,5,1,3.0,1.0,,4.0,4.0,5.5,"vied to 1/8p, weakend",Prairie Meadows,20-07-2025,6
+30May25 'PRM',4,I Am Lowkey,"Gonzalez, Elvin",125 BL bf,4,2,2.0,2.0,,2.0,5.0,0.4,"vied to 1/8p, gave way",Prairie Meadows,20-07-2025,6
+20Jun25 5PRM4,7,My Lightnin Bolt,"Bacon, Tyler",118 BL b,6,3,3.0,2.0,2.0,2.0,13.0,2.6,"up clse,3w,duel,game",Prairie Meadows,20-07-2025,7
+20Jun25 5PRM6,4,Miss Bowring,"De La Cruz, Walter",118 BL,3,2,11.0,11.0,11.0,,1.0,1.5,"pressured pace,denied",Prairie Meadows,20-07-2025,7
+22Jun25 7PRM2,10,The Wife Found Out,"Triana, Jr., Alfredo",119 BL,8,6,4.0,1.0,1.0,,3.0,3.8,"3-4wd bid,captured shw",Prairie Meadows,20-07-2025,7
+27Apr25 7OP3,2,Line Runner,"Huckaby, Ronnie",119 BL b,1,7,,2.0,,,1.0,8.9,"rail bid 1/4,vied uppe",Prairie Meadows,20-07-2025,7
+21Mar25 5OP7,3,Flirtin Again,"Tohill, Ken",118 BL b,2,8,8.0,,,,5.0,25.8,passed tiring foes,Prairie Meadows,20-07-2025,7
+26Jun25 3HAW6,9,Miss Control Freak,"Gonzalez, Elvin",118 BL bf,7,5,5.0,,,,,9.4,"3wd eaarly,inside 1/4p",Prairie Meadows,20-07-2025,7
+30Jun25 8PRM2,5,Reswift,"Roman, Kevin",118 BL b,4,1,2.0,,,,,11.5,"vied 2wd,weaknd turn",Prairie Meadows,20-07-2025,7
+8Jun25 1PRM6,6,She's a Jem,"Hernandez, Carlos",117 BL,5,4,,8.0,8.0,8.0,8.0,86,steadily retreated,Prairie Meadows,20-07-2025,7
+15Jun25 'BAQ',6,Makes Sense,"Saez, Luis",118 L b,5,1,3.0,3.0,3.0,1.0,1.0,1.25,"3-4p,lead3/16,drift in",Saratoga,20-07-2025,1
+28Jun25 'BAQ',8,Scottish Storm,"Ortiz, Jose",124 L,7,5,5.0,5.0,5.0,2.0,2.0,6.8,"4-3p1st,3-5p2nd,chsd",Saratoga,20-07-2025,1
+15Jun25 'BAQ',5,Last Man Standing,"Ortiz, Jr., Irad",118 L b,4,4,4.0,4.0,4.0,3.0,3.0,4.2,"2-3path,4p1/4,mvd out",Saratoga,20-07-2025,1
+21Feb25 'TAM',2,No Merlot,"Santana, Jr., Ricardo",118 L,1,3,2.0,2.0,2.0,4.0,4.0,19.9,"ins1st,out,3p2nd,wknd",Saratoga,20-07-2025,1
+15Jun25 'CD',1,Freedom Maker,"Lezcano, Jose",124 L,2,2,1.0,1.0,1.0,5.0,5.0,4.5,"bobbld st,2p trns,fade",Saratoga,20-07-2025,1
+21Jun25 'CD',4,Cinister Cix,"Prat, Flavien",118 L,3,6,6.0,6.0,6.0,6.0,6.0,7.1,"ins turns,no response",Saratoga,20-07-2025,1
+13Jun25 'CD',7,Preposition,"Carmouche, Kendrick",118 L,6,7,7.0,7.0,7.0,7.0,7.0,10.5,"3-2p1st,4-3p2nd,falter",Saratoga,20-07-2025,1
+7Jun25 'SAR',6,Eliminate,"Carmouche, Kendrick",124 L b,4,6,6.0,4.0,,1.0,1.0,0.75,"bobbled st, drew clear",Saratoga,20-07-2025,2
+15Jun25 'BAQ',8,Charlie's Express,"Elliott, Christopher",124 L b,6,1,1.0,1.0,,2.0,2.0,6.1,"dueled 3-2w, kept on",Saratoga,20-07-2025,2
+25Jun25 'CD',1,Kigali,"Alvarado, Junior",124 L f,1,3,2.0,2.0,,3.0,3.0,3.3,"stumbled st, wknd late",Saratoga,20-07-2025,2
+3Jul25 'SAR',7,Scheduling Dude,"Ortiz, Jose",120 L b,5,2,3.0,3.0,,4.0,4.0,6.1,"stumbled, brushed st",Saratoga,20-07-2025,2
+6Jul25 'SAR',3,Trade Imbalance,"Lezcano, Jose",124 L,3,5,5.0,6.0,,5.0,5.0,10.3,"bumped st, tired",Saratoga,20-07-2025,2
+3May25 'BAQ',2,Camm' Duke,"Cancel, Eric",124 L bh,2,4,4.0,5.0,,6.0,6.0,31.25,"stumbled st, eased",Saratoga,20-07-2025,2
+13Jun25 'CD',8,Standoutsensation,"Ortiz, Jose",125 L,8,4,2.0,2.0,2.0,1.0,1.0,3.7,"out 3p,lead1/4,clr¹/8",Saratoga,20-07-2025,3
+14Jun25 'MTH',5,Catherine Wheel,"Franco, Manuel",125 L,5,2,4.0,4.0,3.0,2.0,2.0,3.7,"3-4p,bid1/4,turnd away",Saratoga,20-07-2025,3
+18May25 'CD',2,Indy Label,"Saez, Luis",123 L f,1,8,8.0,8.0,8.0,6.0,3.0,21.7,"ins-3p,5p1/4,mvd out",Saratoga,20-07-2025,3
+14Jun25 'DEL',6,Cassiar,"Davis, Dylan",120 L,6,5,6.0,6.0,5.0,3.0,4.0,5.6,"3-4p trns,5p1/4,chased",Saratoga,20-07-2025,3
+16Mar25 'AQU',1,Just Music,"Lezcano, Jose",123 L,4,3,3.0,3.0,4.0,4.0,5.0,19.1,"rated ins,bid1/4,tired",Saratoga,20-07-2025,3
+28Jun25 'CD',4,Save Time,"Ortiz, Jr., Irad",125 L,3,7,7.0,7.0,7.0,7.0,6.0,2.6,"2p1st,3-4p2nd,6p1/4",Saratoga,20-07-2025,3
+18May25 'CD',3,Ba Dee Yah,"Prat, Flavien",123 L f,2,6,5.0,5.0,6.0,8.0,7.0,6.4,"ins-2path,no response",Saratoga,20-07-2025,3
+15May25 'BAQ',7,Into Amore,"Rosario, Joel",125 L b,7,1,1.0,1.0,1.0,5.0,8.0,7.8,"2p,headed1/4,faded",Saratoga,20-07-2025,3
+21Jun25 ¹BAQ⁴,2,Geez Eloise,"Lezcano, Jose",122 L,2,5,5.0,3.0,3.0,1.0,4.0,4.6,"3w uppr, up fin 70yds",Saratoga,20-07-2025,4
+7Apr25 ¹⁰KEE⁹,1,Golden Irish,"Davis, Dylan",120 L b,1,4,1.0,1.0,1.0,2.0,2.0,2.85,"hit gate st, caught",Saratoga,20-07-2025,4
+20Jun25 ⁷BAQ²,3,Feasible,"Santana, Jr., Ricardo",122 L b,3,2,2.0,2.0,2.0,3.0,3.0,14.4,"dueled 3-4w, kept on",Saratoga,20-07-2025,4
+12Jun25 ⁶BAQ³,9,Melle Mel,"Elliott, Christopher",122 L,7,3,4.0,6.0,4.0,4.0,3.0,3.8,"8w uppr, shied crop",Saratoga,20-07-2025,4
+25Jun25 ⁶CD¹,7,Volatile Market,"Ortiz, Jr., Irad",122 L,5,1,3.0,4.0,5.0,5.0,5.0,5.6,"chased 5w, weakened",Saratoga,20-07-2025,4
+14Jun25 ¹CD¹,4,Theprincessfactor,"Ortiz, Jose",122 L,4,6,6.0,5.0,6.0,6.0,2.0,2.35,"stumbled st, weakened",Saratoga,20-07-2025,4
+6Jul25 ¹⁰GP¹,8,Flatter Fanatic,"Franco, Manuel",122 L b,6,7,7.0,7.0,7.0,7.0,,27,"lunge st, 3-4w uppr",Saratoga,20-07-2025,4
+6Jun25 5PRM²,1,Halina's Forte,"Ortiz, Jr., Irad",120 f,1,1,5.0,3.0,2.0,2.0,1.0,24,"ins turn,2p1/4,chs,up",Saratoga,20-07-2025,5
+31May25 6DEL¹,2,R Disaster,"Ortiz, Jose",122 --,2,3,1.0,1.0,1.0,1.0,2.0,2.6,"2-3p turn,led to 1/16",Saratoga,20-07-2025,5
+6Jun25 6SAR²,4,Scylla,"Rosario, Joel",124 b,3,7,8.0,6.0,5.0,3.0,3.0,1.25,"2p trn,3p1/4,willingly",Saratoga,20-07-2025,5
+6Jun25 6SAR³,9,Jody's Pride,"Prat, Flavien",124 --,8,5,3.0,4.0,4.0,4.0,4.0,5.5,"4-5path turn,chased",Saratoga,20-07-2025,5
+17May25 6PIM²,7,Striker Has Dial,"Carmouche, Kendrick",120 b,6,2,2.0,2.0,3.0,3.0,5.0,10.1,"bid 3-4path turn,tired",Saratoga,20-07-2025,5
+26May25 8CD²,8,Benedetta,"Davis, Dylan",122 --,7,8,6.0,7.0,6.0,6.0,6.0,8.9,"awkward brk,4p trn,6p",Saratoga,20-07-2025,5
+15Jun25 6PRX¹,5,Carmelina,"Saez, Luis",122 --,4,4,4.0,5.0,7.0,7.0,7.0,25.5,"chs,3p,4p1/4,empty",Saratoga,20-07-2025,5
+27Jun25 10CD¹,6,Little Prankster,"Alvarado, Junior",120 bf,5,6,7.0,8.0,8.0,8.0,8.0,17.8,"steadied 3/8,3p turn",Saratoga,20-07-2025,5
